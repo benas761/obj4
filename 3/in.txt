@@ -1,0 +1,819 @@
+<!DOCTYPE HTML>
+	<html lang=lt><head>
+<meta charset=utf-8>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Hiawatha Textpattern Textile">
+<meta name="urn" content="urn:issn:ISSN-1392-9127">  
+<meta name="description" content="Savišvietos sąjūdžio mokslinė WWW leidykla ir dalykinių žinių talka, sava žiniasklaida">
+<meta name="keywords" content="leidykla, sąjūdis, savišvieta, švara, talka"> 
+<link rel="stylesheet" href="/css/vartai.css" type="text/css" media="screen"> 
+<link rel="stylesheet" href="https://on.lt/css.php?n=paskaitos&amp;t=default" type="text/css" media="all">
+<link rel="icon" sizes="16x16 32x32 48x48" type="image/x-icon" href="/css/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="Naujienos RSS pavidalu" href="https://on.lt/rss/" />
+<link rel="alternate" type="application/atom+xml" title="Naujienos Atom pavidalu" href="https://on.lt/atom/" />
+<link rel="start" title="Viršelis - pradinis tinklapis" href="/">
+<link rel="author" title="Leidėjai ir jų atnešto turinio rodyklė" href="/autoriai/">
+<link rel="license" title="Leidyklos nuosavybė, autorystė, įranga, standartai" href="/kas-cia-seimininkas">
+<link rel="help" title="Kaip čia susigaudyti, išnaudoti On.lt leidyklą, kaip prisidėti į talką" href="/kaip-naudotis">
+<link rel="contents" title="Skiltys - visų turinio pateikimo pavidalų rodyklė" href="/skiltys/">
+<link rel="search" title="Užklausa, raktažodžiai, teminių sričių rodyklė" href="/dalykai/">
+<!--[if lt IE 7]><style>div.lentyna{display:none}</style><![endif]-->
+<script src="/swfobject.js"></script>
+<title>Sava Lietuva</title>
+	</head><body>
+	<div id="laida">
+				<div id="vartai">
+
+	<h1 id="bendra"><a href="//www.on.lt/">
+<img title="&Dagger;" alt="‡" src="https://on.lt/css/lol.png" width=51 height=31 /></a>
+Lietuva internete: žinių talka</h1>
+
+			<nav class="lentyna" id="skyriai">
+
+		<form class="rietuve" title="Pasirinkti skiltį iš visų jų išklotinės" action="/">
+<script>function go2(url) {parent.location = url;}</script>
+	<div><select name="skiltis" id="skiltis" onchange="go2(this.value)">
+<option class="dd" value="/">&nbsp; į skiltį:</option>
+<option class="dt" value="/paskaitos/">Paskaitos</option>
+<option class="dd" value="/pamokos/">&nbsp; Pamokos</option>
+<option class="dd" value="/pateiktys/">&nbsp; Pateiktys</option>
+<option class="dd" value="/prakalbos/">&nbsp; Prakalbos</option>
+<option class="dt" value="/pastabos/">Pastabos</option>
+<option class="dd" value="/citatos/">&nbsp; Ištraukos</option>
+<option class="dd" value="/nuorodos/">&nbsp; Nuorodos</option>
+<option class="dt" value="/ataskaitos/">Įvykiai</option>
+<option class="dd" value="/anonsai/">&nbsp; Būsimieji</option>
+<option class="dd" value="/renginiai/">&nbsp; Renginiai</option>
+<option class="dd" value="/apydaira/">&nbsp; Apžvalgos</option>
+<option class="dt" value="/klausimai/">Pasiteiravimai</option>
+<option class="dd" value="/problemos/">&nbsp; Uždaviniai</option>
+<option class="dd" value="/sumanymai/">&nbsp; Pasiūlymai</option>
+<option class="dt" value="/filmai/">Vaizdo įrašai</option>
+<option class="dd" value="/garsai/">&nbsp; Garso įrašai</option>
+<option class="dd" value="/paveikslai/">&nbsp; Paveikslai</option>
+	</select></div>
+		</form><!-- rietuvė -->
+
+		<ul id="skiltys">
+<li id="paskaitos"><a rel="section" href="/paskaitos/" title="Reiškinio, problemos išnagrinėjimas ir išvados pareiškimas">Paskaitos</a>
+	<ul>
+<li><a rel="section" href="/pamokos/" title="Vadovėliai, patarimai, pavyzdžiai, aprašymai, žinynai">Pamokos</a></li>
+<li><a rel="section" href="/pateiktys/" title="Veiklos, veikalų ir asmenybių pristatymai">Pateiktys</a></li>
+<li><a rel="section" href="/prakalbos/" title="Pareiškimai, pamokslai, proginiai pasisakymai">Prakalbos</a></li>
+	</ul></li>
+<li id="pastabos"><a rel="section" href="/pastabos/" title="Trumpos pastabos iš savo asmeninių dienoraščių">Pastabos</a>
+	<ul>
+<li><a rel="section" href="/citatos/" title="Svarbių žinių išrankos iš kitų leidinių ir iš atsiliepimų">Ištraukos</a></li>
+<li><a rel="section" href="/nuorodos/" title="Kur kitur verta pasidairyti žiniasklaidoje">Nuorodos</a></li>
+	</ul></li>
+<li id="ivykiai"><a rel="section" href="/ataskaitos/" title="Pranešimai iš įvykio vietos, naujo patyrimo žinia (vienu klausimu)">Įvykiai</a>
+	<ul>
+<li><a rel="section" href="/anonsai/" title="Pranešimai apie artėjančius įvykius, numatomus pokyčius">Būsimieji</a></li>
+<li><a rel="section" href="/renginiai/" title="Ruošimasis saviems renginiams, org. reikalai">Renginiai</a></li>
+<li><a rel="section" href="/apydaira/" title="Naujų įtaisų, įvykių, reiškinių ir nuomonių apie juos apžvalgos">Apžvalgos</a></li>
+	</ul></li>
+<li id="klausimai"><a rel="section" href="/klausimai/" title="Pasiteiravimai žinovams aiškiu klausimu">Klausimai</a>
+	<ul>
+<li><a rel="section" href="/problemos/" title="Dar niekam neaiškaus klausimo iškėlimas ir nagrinėjimas">Uždaviniai</a></li>
+<li><a rel="section" href="/sumanymai/" title="Paslaugos pasiūlymas, kvietimas talkon, meistro užsakymas">Pasiūlymai</a></li>
+	</ul></li>
+<li id="multimedia"><a rel="section" href="/filmai/" title="Vaizdo įrašai (TV, filmukai, videoklipai)">Raiškiai</a>
+	<ul>
+<li><a rel="section" href="/garsai/" title="Garso įrašai, balsai (muzikos, audio klipai)">Garsiai</a></li>
+<li><a rel="section" href="/paveikslai/" title="Nuotraukos, piešiniai, parodos (fotoreportažai, komiksai, galerijos)">Vaizdžiai</a></li>
+	</ul></li>
+		</ul><!-- skiltys -->
+
+<dfn class="lentynoj">&hellip; <a rel="contents" href="/skiltys/" class="rodykle" title="Išsamus leidybos skilčių - visų turinio pateikimo pavidalų aprašas">visos skiltys</a>:</dfn>
+
+			</nav><!-- skyriai -->
+
+			<div id="antraste">
+		<div id="uzklausa">
+	<!-- txp:search_input label="Žodžio užklausa:" / -->
+	<form method="get" action="/"><p><label for="q">
+Žodžio užklausa:</label><br />
+<input name="q" id="q" type="text" size="15" value="" title="Žodžio užklausa" /></p></form>
+	<p id="rodykle"><a rel="index" href="/dalykai/">
+Raktažodžiai</a></p></div><!-- užklausa -->
+
+	<h2 id="sava"><a rel="home" href="https://on.lt/">Sava Lietuva</a><br /><dfn id="priesakas">Kaip tvarkytis, kad Lietuva būtų sava</dfn></h2>
+			</div><!-- antraštė -->
+
+			<nav class="lentyna" id="temos">
+	<ul id="sritys">
+		
+<li><a href="https://on.lt/category/kodavimas/">Kūryba</a><ul>
+	
+<li><a href="https://on.lt/category/cms/">CMS</a></li>
+	
+<li><a href="https://on.lt/category/css/">CSS</a></li>
+	
+<li><a href="https://on.lt/category/html/">HTML</a></li>
+	
+<li><a href="https://on.lt/category/js/">JS</a></li>
+	
+<li><a href="https://on.lt/category/php/">PHP</a></li>
+	</ul></li>
+		
+<li><a href="https://on.lt/category/leidyba/">Leidyba</a><ul>
+	
+<li><a href="https://on.lt/category/kronika/">Metraštis</a></li>
+	
+<li><a href="https://on.lt/category/savilaida/">Savilaida</a></li>
+	</ul></li>
+		
+<li><a href="https://on.lt/category/paveldas/">Paveldas</a><ul>
+	
+<li><a href="https://on.lt/category/amatai/">Amatai</a></li>
+	
+<li><a href="https://on.lt/category/daile/">Dailė</a></li>
+	
+<li><a href="https://on.lt/category/daina/">Daina</a></li>
+	
+<li><a href="https://on.lt/category/galia/">Galia</a></li>
+	
+<li><a href="https://on.lt/category/kalba/">Kalba</a></li>
+	
+<li><a href="https://on.lt/category/skraidymai/">Skrydžiai</a></li>
+	</ul></li>
+		
+<li><a href="https://on.lt/category/praeitis/">Praeitis</a><ul>
+	
+<li><a href="https://on.lt/category/gudai/">Gudai</a></li>
+	
+<li><a href="https://on.lt/category/lenkinimas/">Rzeczpospolita</a></li>
+	
+<li><a href="https://on.lt/category/partizanai/">Partizanai</a></li>
+	</ul></li>
+		
+<li><a href="https://on.lt/category/santvarka/">Santvarka</a><ul>
+	
+<li><a href="https://on.lt/category/eismas/">Eismas</a></li>
+	
+<li><a href="https://on.lt/category/ekonomika/">Ekonomika</a></li>
+	
+<li><a href="https://on.lt/category/globa/">Globa</a></li>
+	
+<li><a href="https://on.lt/category/liberalizmas/">Liberalizmas</a></li>
+	
+<li><a href="https://on.lt/category/mokesciai/">Mokesčiai</a></li>
+	
+<li><a href="https://on.lt/category/mokslas/">Mokslas</a></li>
+	
+<li><a href="https://on.lt/category/rinkimai/">Rinkimai</a></li>
+	
+<li><a href="https://on.lt/category/svietimas/">Švietimas</a></li>
+	
+<li><a href="https://on.lt/category/teisesauga/">Teisėsauga</a></li>
+	
+<li><a href="https://on.lt/category/tolerancija/">Tolerancija</a></li>
+	
+<li><a href="https://on.lt/category/tvirkinimas/">Tvirkinimas</a></li>
+	</ul></li>
+		
+	</ul><!-- sritys -->
+			</nav><!-- temos -->
+
+				</div><!-- vartai -->
+
+	<nav><dl id="takas">
+<dt id="issn">ISSN 1392-9127</dt><dd>
+<a href="//www.on.lt/">Lietuva internete</a> &raquo;
+<a rel="home" href="https://on.lt/">Sava Lietuva</a> &raquo;
+ žinių talka 
+</dd></dl></nav>
+
+	<main>
+		
+		
+		
+	<div id="antrasas">
+	<header><h3 class="juosta">Kas naujo</h3></header>
+	
+	<p class="paantraste">
+Žinių talkos staklės jau sutvertos, liko įtaisyti smulkmenas ir suderinti darbą.</p>
+	</div><!-- antrašas -->
+
+	
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/353t.png" alt="Audronės Mickutės paveikslas tautos didvyriams" class="vaizdelis" width="100" height="67" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/lietuviu-maskva">Lietuvių Maskva</a></strong></dt>
+<dd>2020-05-15 Ilja Tarasovas apie Maskvos lietuvių kultūrą ir laisvės kovas.</dd>
+<dd>505. <a href="https://on.lt/citatos/">Ištraukos</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/gudai/">Gudai</a>: <a href="https://on.lt/dalykai/baltai/" rel="tag">baltai</a>, 
+<a href="https://on.lt/dalykai/etnocidas/" rel="tag">etnocidas</a>, 
+<a href="https://on.lt/dalykai/galindai/" rel="tag">galindai</a>, 
+<a href="https://on.lt/dalykai/istorija/" rel="tag">istorija</a>, 
+<a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Maskoliai ne mongoloidai, o apkrikštinti ir suslavinti lietuviai.</dd>
+<dd><p>Dabartinėje Vidurio Rusijoje vietiniai lietuviai pirmajame tūkstantmetyje gyveno turtingai, laisvų ūkininkų valsčiais laikėsi ilgai ir atkakliai, Volgos ir Okos tarpupyje iki XV amžiaus nepripažino su krikščionybe brukamos feodalinės vergovės. Atmintis apie litvinus, galinius, galius, galindus, galietius (Голѧдь), apie Lietuvą (Литва) Pamaskvėje buvo gyva dar ir <span class="caps">XIX</span> amžiuje. Daugelis iš metraščiuose aprašytų <span class="caps">XIII</span> amžiaus Litvos antpuolių buvo ne iš tolimo Pabaltijo, o vietinių lietuvių nepriklausomybės kovos.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/336t.jpg" alt="2018 m. dr. Bučio knygos „Lietuvių karaliai...“ viršelis" class="vaizdelis" width="100" height="85" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/lietuviu-karaliai">Lietuvių karaliai</a></strong></dt>
+<dd>2018-09-01 2018 m. dr. Bučio monografijos „Lietuvių karaliai...“ pristatymas.</dd>
+<dd>485. <a href="https://on.lt/pateiktys/">Pateiktys</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/gudai/">Gudai</a>: <a href="https://on.lt/dalykai/istorija/" rel="tag">istorija</a>, 
+<a href="https://on.lt/dalykai/knyga/" rel="tag">knyga</a>, 
+<a href="https://on.lt/dalykai/pristatymas/" rel="tag">pristatymas</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Algimantas+Bu%C4%8Dys/">Algimantas Bučys</a>: Moksliškai atmesta dogma apie neva vienintelį ir trumpai buvusį lietuvių karalių.</dd>
+<dd><p>2018 metais „Vaga“ išleido literatūros istoriko ir kritiko, poeto, literatūrologijos teoretiko dr. Algimanto Bučio monografiją „Lietuvių karaliai ir Lietuvos karalystė <em>de facto</em> ir <em>de jure</em> Viduramžių Europoje (Literatūrologinė istorinių šaltinių ir istoriografijos analizė)“, kurioje pateikta medžiaga atskleidžia istorikų klastotes, siekiant ištrinti tautos atmintį, sumenkinti nepriklausomos Lietuvos valdovų aukščiausius kilmės titulus ir jų pripažinimą Viduramžių Europoje.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/248t.png" alt="Audronė Mickutė: „Ąžuolas“" class="vaizdelis" width="100" height="80" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/mokas">Mokas</a></strong></dt>
+<dd>2018-08-22 Lietuvių mokslo draugijos atkūrimo pirmoji ataskaitinė sueiga.</dd>
+<dd>484. <a href="https://on.lt/renginiai/">Renginiai</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/mokslas/">Mokslas</a>: <a href="https://on.lt/dalykai/prisistatymas/" rel="tag">prisistatymas</a>, 
+<a href="https://on.lt/dalykai/sueiga/" rel="tag">sueiga</a>, 
+<a href="https://on.lt/dalykai/teismas/" rel="tag">teismas</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Kultūrinių žmonių santvarkoje mokslo teismas svarbiau už valdžią.</dd>
+<dd><p>2016-02-19 prie Lietuvos mokslininkų sąjungos sutelkėme nusipelniusių šviesuolių mokslinį teismą „Mokas“ neiš&shy;spręstiems kultūros kilmės, jos griovimo ir teisingos santvarkos klausimams išrišti. Matydami pavojų tautos, visos Vakarų civilizacijos likimui ir pasyvų mokslininkų plaukimą pasroviui, ryžomės pamėginti patys. Artėjant mokslininkų suvažiavimui, 2018-08-22 <span class="caps">LMS</span> menėje Vilniuje surengėme pirmąją savo nuotolinio darbo ataskaitą tautai.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/317t.jpg" alt="Justinas Marcinkevičius" class="vaizdelis" width="100" height="70" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/optimizmas">Optimizmas</a></strong></dt>
+<dd>2018-02-16 Šimtąją Vasario šešioliktąją apie Justiną Marcinkevičių.</dd>
+<dd>474. <a href="https://on.lt/pateiktys/">Pateiktys</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/svietimas/">Švietimas</a>: <a href="https://on.lt/dalykai/bibliografija/" rel="tag">bibliografija</a>, 
+<a href="https://on.lt/dalykai/enciklopedija/" rel="tag">enciklopedija</a>, 
+<a href="https://on.lt/dalykai/pagerbimas/" rel="tag">pagerbimas</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Genovait%C4%97+Ma%C4%8Di%C5%ABt%C4%97/">Genovaitė Mačiūtė</a>: Gyvename asmenybių nuopelnų naikimimo metu.</dd>
+<dd><p>Iš galybės prisiminimų apie Justiną Marcinkevičių  Valentinas Sventickas sudėliojo gražią knygą — su daugybe nuotraukų, su žmonių atmintyje šmėstelėjančiomis iištraukomis iš poeto eilėraščių, dramų  ir padavė mums kaip ramstį. Kol dar turi į ką atsiremti, dar gali būti ir išbūti — Lietuvoje, su Lietuva širdyje. Gyvename laiku, kai  vidutinybės (ar ne juos šviesaus atminimo akademikas, Vilniaus universiteto rektorius Jonas Kubilius vadino „pilkaisiais“, „agresyviais“) nebeslepia, kad asmenybės jiems trukdo. Tokius erzina ir tai, jog tėvynės bei tautos stiprybės ieškančiam vis ne itin linksmas Justinas Marcinkevičius „pasipainioja“. Net gyvenimo datas pagal Lietuvą poetui likimas ar Aukščiausiasis surikiavo — ir gimimu, ir mirtimi su tėvyne surišo.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/187t.jpg" alt="Lietuvių trispalvė vėliava" class="vaizdelis" width="100" height="70" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/gauniai">Gauniai</a></strong></dt>
+<dd>2017-07-06 Kaniūkų etimologija ir diachroninės lingvistikos mokslo kritika.</dd>
+<dd>469. <a href="https://on.lt/paskaitos/">Paskaitos</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a href="https://on.lt/dalykai/asmenvardis/" rel="tag">asmenvardis</a>, 
+<a href="https://on.lt/dalykai/istorija/" rel="tag">istorija</a>, 
+<a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>, 
+<a href="https://on.lt/dalykai/vietovardis/" rel="tag">vietovardis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Garbės supratimo išlikę ten, kur lietuvių būta.</dd>
+<dd><p>Apžvelgus istorinės kalbotyros padėtį, apybraižoje pateikta mokslinio metodo (ne)taikymo diachroninėje lingvistikoje kritika. Tada, atsisakius klaidingų indoeuropiečių prokalbės rekonstrukcijos ir savaiminio kalbų tobulėjimo prielaidos, o pritaikius aštuonis nutautėjimo raidos dėsnius, Kaniūkų etimologijos pavyzdžiu visai aiškiai atskleista lietuviška Eurazijos (ne vien indoeuropiečių) valstybių valdovų titulų kilmė.</p>
+
+<p>Atmerkus akis tiesai, bent trumpam suabejojus paika savaiminės pažangos prielaida ir ja paremta parazitine pasaulėžiūra, atsiveria visai kitas raidos vaizdas. Ir supratimas, ant kokių pamatų dar laikosi ši kaip per stebuklą atsiradusi ir dar gyva, bet visai trapi ir nenaudėlių vis aršiau ardoma civilizacija, kam turime būti dėkingi už savo kultūrą ir gerovę. Kaip svarbu atsigręžti į didžiųjų žmonijos atradimų, išradėjų kultūrinės tautos gamtamokslę tikybą — gal dar pavyktų ją suvokti, gal ne per vėlu atstatyti teisingą protėvių santvarką.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/309t.jpg" alt="Šiaulių berniukų ir jaunuolių choras „Dagilėlis&quot; Birštone" class="vaizdelis" width="100" height="61" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/pasigincykim-del-skonio">Pasiginčykim dėl skonio</a></strong></dt>
+<dd>2017-08-29 Apie niekinantį žiniasklaidos požiūrį į žmogų ir bulvaro brukimą.</dd>
+<dd>470. <a href="https://on.lt/pastabos/">Pastabos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/svietimas/">Švietimas</a>: <a href="https://on.lt/dalykai/bibliografija/" rel="tag">bibliografija</a>, 
+<a href="https://on.lt/dalykai/bulvaras/" rel="tag">bulvaras</a>, 
+<a href="https://on.lt/dalykai/muzika/" rel="tag">muzika</a>, 
+<a href="https://on.lt/dalykai/vertinimas/" rel="tag">vertinimas</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Genovait%C4%97+Ma%C4%8Di%C5%ABt%C4%97/">Genovaitė Mačiūtė</a>: Skonio lavinimas yra neginčytinas dalykas.</dd>
+<dd><p>Nenagrinėdami ir nesusivokdami, kas išties vertinga, o kas ne – ir nužmogėti galime. Neapleidžia mintis, kad žiniasklaida ne taip jau retai tuo keliu mus ir veda. Bet negi privalome juo eiti – galime gyventi savo galva, Būna ir nemokamų gerų koncertų, vertingų susitikimų, ir bibliotekų knygos laukia skaitytojų. O dėl skonio pasiginčyti ne tik verta, bet ir būtina. Kad žmonėmis išliktume.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/300t.jpg" alt="Vytautas Jarutis prie savo kūrybos kryžiaus ant Palubinskų paminklo Daugų kapinėse" class="vaizdelis" width="100" height="75" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/vytautas-jarutis">Taip neturėtų būti</a></strong></dt>
+<dd>2017-02-23 Kalvių kalvis Vytautas Jarutis dėl tautos paveldo likimo.</dd>
+<dd>465. <a href="https://on.lt/prakalbos/">Prakalbos</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/daile/">Dailė</a>: <a href="https://on.lt/dalykai/antimenas/" rel="tag">antimenas</a>, 
+<a href="https://on.lt/dalykai/kosmopolitika/" rel="tag">kosmopolitika</a>, 
+<a href="https://on.lt/dalykai/menas/" rel="tag">menas</a>, 
+<a href="https://on.lt/dalykai/namudinis/" rel="tag">namudinis</a>, 
+<a href="https://on.lt/dalykai/vertinimas/" rel="tag">vertinimas</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Lietuvos kultūros taryba vis mažiau rūpinasi tautodaile.</dd>
+<dd><p>Neturime pamiršti, kas mes esame. Lietuviams itin svarbu išlaikyti savo papročius, tautinę kultūrą ne tik dainoje, kalboje, bet ir visose srityse. Ne mažiau svarbią vietą užima tautos dailė. Tautodailė — viena iš dvasingesnių sričių mūsų kultūroje. Ne kartą teko dalyvauti mūsų tautodailės parodose užsienyje. Gausūs lankytojų būriai atidžiai apžiūrinėdavo mūsų parodą, išeidami sakydavo: ar suprantate, ką jūs turite?</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/294t.jpg" alt="Griaugas griegas grigas grįžulas griežulas kreigas kriauklė krioklys krieg круг" class="vaizdelis" width="100" height="100" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/garbes-zodis">Garbės žodis</a></strong></dt>
+<dd>2017-02-16 Apie tik prisiminimuose gyvą žodį.</dd>
+<dd>464. <a href="https://on.lt/prakalbos/">Prakalbos</a>: <a rel="tag" href="https://on.lt/category/kalba/">Kalba</a>: <a rel="tag" href="https://on.lt/category/galia/">Galia</a>: <a href="https://on.lt/dalykai/atmintis/" rel="tag">atmintis</a>, 
+<a href="https://on.lt/dalykai/dora/" rel="tag">dora</a>, 
+<a href="https://on.lt/dalykai/dvasia/" rel="tag">dvasia</a>, 
+<a href="https://on.lt/dalykai/orumas/" rel="tag">orumas</a>, 
+<a href="https://on.lt/dalykai/papro%C4%8Diai/" rel="tag">papročiai</a>, 
+<a href="https://on.lt/dalykai/piliakalniai/" rel="tag">piliakalniai</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Genovait%C4%97+Ma%C4%8Di%C5%ABt%C4%97/">Genovaitė Mačiūtė</a>: Gyvename be garbės poreikio ir supratimo.</dd>
+<dd><p>Kada, kaip seną drabužį, išaugom garbės žodį? Kaip jis dingo iš mūsų gyvenimų, nuo mūsų lūpų? Kaip nutolo kartu su vaikystės dienom, nubrozdintų kelių perštėjimu ir geriausio draugo išdaigom? Nebepasigendam. Kada paskutinį kartą sakei „garbės žodis“? Aš – seniai.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/246t.png" alt="Kvietimas tautos referenduman" class="vaizdelis" width="100" height="80" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/lietuvio-budas">Lietuvio būdas</a></strong></dt>
+<dd>2017-02-16 Donaldo Trampo, Piotro Stolypino ir Antano Smetonos pavardžių etimologija.</dd>
+<dd>463. <a href="https://on.lt/paskaitos/">Paskaitos</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a href="https://on.lt/dalykai/asmenvardis/" rel="tag">asmenvardis</a>, 
+<a href="https://on.lt/dalykai/istorija/" rel="tag">istorija</a>, 
+<a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>, 
+<a href="https://on.lt/dalykai/vietovardis/" rel="tag">vietovardis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Lietuviškos atmenos rodo tiesos ir gerovės kelią.</dd>
+<dd><p>Nusipelniusių valstybės vadovų pavardžių etimologija iš dalies paaiškina ir jų sėkmės priežastį — teisingos santvarkos supratimo kilmę. Apžvalgoje išnagrinėtos Donaldo Trampo, Andžejaus Dūdos, Piotro Stolypino ir Antano Smetonos pavardžių kilmė, buvusi bendrinė tų žodžių reikšmė.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/283t.png" alt="500 years from Reformation (1517-2017)" class="vaizdelis" width="100" height="64" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/reformacija">Reformacija</a></strong></dt>
+<dd>2016-09-05 2017-ieji skelbiami Reformacijos metais (1517–2017).</dd>
+<dd>457. <a href="https://on.lt/anonsai/">Numatoma</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/gudai/">Gudai</a>: <a href="https://on.lt/dalykai/pagerbimas/" rel="tag">pagerbimas</a>, 
+<a href="https://on.lt/dalykai/santvarka/" rel="tag">santvarka</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Vakarų Europos Reformaciją sukėlė Lietuvos krikštas ir Žalgirio mūšis.</dd>
+<dd><p>1517 metais augustinas vienuolis, Biblijos vertėjas, Šventojo rašto aiškinimo profesorius Martynas Liauderis sukalė savo 95 tiesas (protestantiškas tezes), bet iš tikrųjų tai reformacija kilo visu šimtmečiu anksčiau — husitams krikštijant Lietuvą. Pirmajam Reformacijos sąjūdžiui vadovavo Bohemios karaliumi išrinktas čekų tautos didvyris Žygimantas Kaributaitis. Janas Husas buvo sudegintas, Bohemia nukariauta, o pirmąją protestantišką valstybę Lietuvos globoje įsteigė ir pirmąjį Europoje pasaulietinį Karaliaučiaus universitetą (Albertiną) įkūrė lietuvis — kryžiuočių ordino didysis magistras ir Vakarų Lietuvos (Parusios) valdovas Albertas.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/282t.png" alt="Hiawatha logo" class="vaizdelis" width="100" height="124" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/hiawatha">Hiawatha</a></strong></dt>
+<dd>2016-12-09 HTTP serverių rinkos apžvalga ir išvados.</dd>
+<dd>455. <a href="https://on.lt/apydaira/">Apžvalgos</a>: <a rel="tag" href="https://on.lt/category/kodavimas/">Kūryba</a>: <a rel="tag" href="https://on.lt/category/cms/">CMS</a>: <a href="https://on.lt/dalykai/auditas/" rel="tag">auditas</a>, 
+<a href="https://on.lt/dalykai/pristatymas/" rel="tag">pristatymas</a>, 
+<a href="https://on.lt/dalykai/vertinimas/" rel="tag">vertinimas</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Hiawatha išsiskiria švara, patvarumu ir žmoniškumu.</dd>
+<dd><p>2016 m. rudenį patyrinėjau <span class="caps">HTTP</span> serverių rinką ir „Apačių“ pakeičiau „NginX“, bet išsibandęs netrukus ir jį pakeičiau niekam negirdėta, nė specialistams nežinoma, tikriausiai pirmąja Lietuvoje „Hiawatha“. Todėl čia išguldžiau palyginimo duomenis, paaiškinimą, kuo ydingi kiti serveriai ir kuo išsiskiria „Hiawatha“ — švara, patvarumu, pajėgumu, pažangiomis technologijomis, o ypač aiškumu ir žmoniškumu.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/278t.jpg" alt="2015 Audronė Mickutė: „Žvaigždė“" class="vaizdelis" width="100" height="67" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/20metis">Pažangos sprogimas užgesintas</a></strong></dt>
+<dd>2016-11-06 18 metų šviesolaidžio ir interneto 25-mečio Lietuvoje apžvalga.</dd>
+<dd>454. <a href="https://on.lt/apydaira/">Apžvalgos</a>: <a rel="tag" href="https://on.lt/category/leidyba/">Leidyba</a>: <a rel="tag" href="https://on.lt/category/kronika/">Metraštis</a>: <a href="https://on.lt/dalykai/auditas/" rel="tag">auditas</a>, 
+<a href="https://on.lt/dalykai/istorija/" rel="tag">istorija</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>, 
+<a href="https://on.lt/dalykai/tv/" rel="tag">tv</a>, 
+<a href="https://on.lt/dalykai/vertinimas/" rel="tag">vertinimas</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Savaiminė pažanga sustabdyta, tenka jau ginti interneto principus.</dd>
+<dd><p>Interneto pradžia buvo laisva, klostėsi savaiminė tvarka ir gero elgesio standartai, mezgėsi tiesioginiai ryšiai ir žinių sklaida asmenine atsakomybe — taip reiškėsi nesuvaržyti gamtos ir visuomenės dėsniai, todėl pažanga buvo audringa, neregėtai sparti, veržli kaip sprogimas. Bet užplūdus internetą visuomenės daugumai ir juo susirūpinus politikams, socialinė santvarka persikėlė ir į internetą, todėl pažanga iš esmės sustabdyta, įsigali monopolizmas ir teršimas, duomenų uždarumas ir propaganda, biurokratizmas ir niekieno atsakomybė. Dabar būtų gerai apginti bent pradinį sumanymą, esminius interneto principus: decentralizaciją, tiesioginius ryšius ir asmeninę atsakomybę.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/219t.jpg" alt="Lenkinimo nasrai 1920 m. piešinyje" class="vaizdelis" width="100" height="67" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/lenkinimas-genocidas">1919 – 1939 okupacija ir genocidas</a></strong></dt>
+<dd>2016-10-08 Sambūrio „Patirtis“ pareiškimas dėl 1919 –1939 m. okupacijos vertinimo.</dd>
+<dd>453. <a href="https://on.lt/prakalbos/">Prakalbos</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/lenkinimas/">Rzeczpospolita</a>: <a href="https://on.lt/dalykai/atmintis/" rel="tag">atmintis</a>, 
+<a href="https://on.lt/dalykai/etnocidas/" rel="tag">etnocidas</a>, 
+<a href="https://on.lt/dalykai/lenkinimas/" rel="tag">lenkinimas</a>, 
+<a href="https://on.lt/dalykai/pagerbimas/" rel="tag">pagerbimas</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Albinas+Jasi%C5%ABnas/">Albinas Jasiūnas</a>: Gerbkime ir tyrinėkime protėvių pasipriešinimo nutautinimui atminimą.</dd>
+<dd><p>1920 metais Lenkijai aneksavus didelę Lietuvos dalį su sostine Vilniumi, daug žmonių pasitraukė į nepriklausomą Lietuvą. Bet tėvynėje likę lietuviai okupacijos laikotarpiu telkėsi, aukojosi gindami ir gaivindami lietuvybę, saugodami Vilnių Lietuvai. Tai buvo kultūrinė, šviečiamoji kova. O bausmės už ją buvo žiaurios: kankinimai, žudymai, kratos, plėšimai, kalinimai, trėmimai. Vilniaus krašto lietuvių kultūrinė veikla — neeilinis reiškinys Lietuvos istorijoje. Tačiau mokyklos vadovėliuose ir žiniasklaidoje jis nutylimas. Lietuvos politikai ir istorikai nuolat nuolaidžiauja lenkiškosios pusės tendencingiems teiginiams vis tuo pačiu „kultūrinimo“ pamušalu, pritardami neteisiems reikalavimams ir melagingiems įrodinėjimams. Mūsų valstybės tarnybų darbuotojai dažnai nė negirdėję apie visos kartos pasiaukojamą kultūrinį darbą, apie vieningą lietuvių priešinimąsi nutautinimui. Dauguma Lietuvos žmonių nėra gavę vadovėlinių žinių, nesugeba argumentuotai paaiškinti Lenkijos politikos. Mokslo Lietuvos tėvo dr. Jono Basanavičiaus 165-ąsias metines pasitinkame be paminklo sostinėje didžiajam vilniečiui, o po metų jau ir Nepriklausomybės šimtmečio sukaktis. Sambūris „Patirtis“ ragina Vyriausybę pripažinti 1920 m. okupacijos ir ją sekusio genocido faktą bei atlyginti kraštotyros darbus tautos, mokslo ir teisingumo labui.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/273t.jpg" alt="Velykinių margučių raštai" class="vaizdelis" width="100" height="68" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/velykos">Velykos</a></strong></dt>
+<dd>2016-03-17 Vilkių didybė ir jų technologijų svarba Europos kultūrai.</dd>
+<dd>450. <a href="https://on.lt/paskaitos/">Paskaitos</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/gudai/">Gudai</a>: <a href="https://on.lt/dalykai/asmenvardis/" rel="tag">asmenvardis</a>, 
+<a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>, 
+<a href="https://on.lt/dalykai/vietovardis/" rel="tag">vietovardis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Lietuviai kitiems buvo šventi milžinai.</dd>
+<dd><p>Susivokus, kad <code>vilk-, vielk-, velk-</code> yra ta pati šaknis (balsiai <code>I,E</code> kilę iš dvibalsio <code>IE</code>), išaiškėja ir vietovardžių <cite>Wielka, Великая, Великий Новгород</cite> pradinė reikšmė — tai krovinių gabenimo valksnų upės, jų pakrantėse gyvenusių vielkių (velkių, vilkių) vietovės. Vielkiai buvo sėslūs laivų statybos, plukdymo ir pervilkimo įrangos meistrai, išminčiai. Šaknis <code>Vielyk-</code> yra tos pačios kilmės, nes:<br />
+1 &#8211; rusiškus žodžius <cite>Великая, великий</cite> atitinka lenkiški <cite>Wielka, wielki</cite>;<br />
+2 &#8211; tiek <cite>Wielka</cite>, tiek ir <cite>Великая</cite> abi jos buvo nuolatinių valksnų vietovės;<br />
+3 &#8211; Trys karaliai (Trys išminčiai) rusiškoje Biblijoje vadinami <cite>Три волхва</cite>;<br />
+4 &#8211; rusų kalboje dar gyvas žodis <cite>верхи</cite> irgi yra kilęs iš <cite>велки</cite> — vielkių.<br />
+Išvada: žodžiai <cite>wielki, великий</cite> (didis) ir <cite>верхи</cite> (žyniai) slavų kalbų susidarymo laikais yra kilę iš <a href="https://on.lt/vilkiai">vielkių</a>.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/270t.jpg" alt="Romas Pakalnis Seime" class="vaizdelis" width="100" height="96" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/justinui-marcinkeviciui">Nuo ištakų iki šiandienos</a></strong></dt>
+<dd>2016-02-12 Romo Pakalnio prakalba Lietuvos poetui Justinui Marcinkevičiui.</dd>
+<dd>447. <a href="https://on.lt/prakalbos/">Prakalbos</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/kalba/">Kalba</a>: <a href="https://on.lt/dalykai/atmintis/" rel="tag">atmintis</a>, 
+<a href="https://on.lt/dalykai/pagerbimas/" rel="tag">pagerbimas</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Justinas+Marcinkevi%C4%8Dius/">Justinas Marcinkevičius</a>: Lietuva išmoko tarti svarbiausius tautai žodžius.</dd>
+<dd><p>Mes, Justino Marcinkevičiaus bendražygiai, esame pasiryžę bet kuriuo metu pasakyti visus tuos svarbiausius Jo išmokytus žodžius, padaryti Jo įvardintus darbus ir niekada niekam neleisime menkinti Justino Marcinkevičiaus vardo ir Jo vaidmens istorinėje Lietuvos laisvės byloje.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/268t.jpg" alt="Vilniaus vartų Baltieji stulpai" class="vaizdelis" width="100" height="82" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/vilniaus-vartu-baltieji-stulpai">Vilniaus vartų Baltieji stulpai</a></strong></dt>
+<dd>2015-12-12 Sambūrio „Patirtis“ pasiūlymas atstatyti Vilniaus vartų paminklus.</dd>
+<dd>444. <a href="https://on.lt/prakalbos/">Prakalbos</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/galia/">Galia</a>: <a href="https://on.lt/dalykai/architekt%C5%ABra/" rel="tag">architektūra</a>, 
+<a href="https://on.lt/dalykai/atstatymas/" rel="tag">atstatymas</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>, 
+<a href="https://on.lt/dalykai/valstyb%C4%97/" rel="tag">valstybė</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Albinas+Jasi%C5%ABnas/">Albinas Jasiūnas</a>: Baltieji stulpai su vyčiais buvo ryškiausi sostinės žanklai.</dd>
+<dd><p>Ant pagrindinių kelių į Lietuvos sostinę Vilnių pasitikdavo įspūdingi vartai su 6 m aukščio Baltaisiais stulpais ir metaliniais Vyčiais ant jų. Vilniaus vartų Baltieji stulpai — ryškiausi sostinės ženklai. Jie mena Napoleono sutikimą, sukilėlių kovas, tautos didvyrio Simono Konarskio viešą egzekuciją ir kitas istorines gaires. Be jų neteko prasminės jungties ir kiti tų vietų paminklai: keliautojų globėjo Šv. Jackaus koplytėlė, muitinės, užeigos pastatai. Artėjant Lietuvos nepriklausomybės šimtmečiui, reikia atstatyti šiuos svarbius sostinės paminklus. Atstatymas neužtruks ir nebus brangus, istoriografinės medžiagos išlikę pakankamai. Šie paminklai stiprins vilnietišką tapatybę, išdidumą ir pilietiškumą.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/263t.jpg" alt="Briedis braidys - vilkių pagalbininkas" class="vaizdelis" width="100" height="80" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/vilkiai">Vilkiai</a></strong></dt>
+<dd>2015-07-25 Lietuviškų pervalkos vietovardžių geografinė apžvalga.</dd>
+<dd>440. <a href="https://on.lt/paskaitos/">Paskaitos</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/gudai/">Gudai</a>: <a href="https://on.lt/dalykai/asmenvardis/" rel="tag">asmenvardis</a>, 
+<a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>, 
+<a href="https://on.lt/dalykai/vietovardis/" rel="tag">vietovardis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Istorinėje kalbotyroje dar nenagrinėtas vilkių kultūros klodas.</dd>
+<dd><p>Vietovardžiai ir asmenvardžiai <code>Vilk-</code> šaknimi baltistikoje ligšiol yra kildinami iš žodžio <strong>vilkas</strong>. Visai nepaisant, tarsi nė nežinant kitų šios šaknies reikšmių lietuvių kalboje, pirmiausia <strong>vilkti</strong>. Šioje studijoje iškeliamos metodologinės ydos istorijos ir kalbotyros moksle, tada, ribojantis vien visuotinai žinomais duomenimis ir istorinėje bei lyginamojoje kalbotyroje pripažintais dėsningumais, išaiškinami asmenvardžių ir vietovardžių <code>Vilk-, Velk-, Valk-, Βαλκ-, Волк-, Болг-, Болк-, Balk-, Bilk-</code> šaknimis prasminiai ryšiai. O „žodžių archeo&shy;logijos“ bei istorinės geografijos priemonėmis atskleidžiamas seniausias, žmonijos raidai itin svarbus ir labai platus <strong>vilkių kultūros klodas</strong>.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/250t.jpg" alt="Gintalas gintaras gintra ambra ombra umbra saugelis" class="vaizdelis" width="100" height="80" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/gintaras">Gintaras</a></strong></dt>
+<dd>2014-09-03 A. Račkus apie gintarą kaip pinigą, kitos jo paskirtys ir paplitimas.</dd>
+<dd>432. <a href="https://on.lt/pateiktys/">Pateiktys</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/gudai/">Gudai</a>: <a href="https://on.lt/dalykai/apeigos/" rel="tag">apeigos</a>, 
+<a href="https://on.lt/dalykai/asmenvardis/" rel="tag">asmenvardis</a>, 
+<a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>, 
+<a href="https://on.lt/dalykai/pagerbimas/" rel="tag">pagerbimas</a>, 
+<a href="https://on.lt/dalykai/pinigai/" rel="tag">pinigai</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Ilgus amžius lietuviškas gintaras buvo tvirta pasaulinė valiuta.</dd>
+<dd><p>Kadangi mokytojai, kultūrologai, net etnologai ir istorikai nebežino buvusios gintaro paskirties, teko pargabenti tėvynėn pasaulyje garsaus numizmato dr. Aleksandro Račkaus „Amber As a Medium of Exchange“ žurnale „The Numismatist“, išversti jį lietuviškai ir paskelbti enciklopedijoje Lietuvai.lt. Pristatydamas šį svarbų veikalą, siūlau patikslinti etimologiją sakeliais, saikeliais ir saugeliais, papildyti ambronimis, ambra ir ežero gintaru.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/248t.png" alt="Audronė Mickutė: „Ąžuolas“" class="vaizdelis" width="100" height="80" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/lietuviu-valstybe">Ar Lietuva dar lietuvių valstybė</a></strong></dt>
+<dd>2014-06-28 Kokia ta Sąjūdžio Lietuvos posovietinė politika ir santvarka.</dd>
+<dd>430. <a href="https://on.lt/prakalbos/">Prakalbos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a href="https://on.lt/dalykai/griovimas/" rel="tag">griovimas</a>, 
+<a href="https://on.lt/dalykai/kosmopolitika/" rel="tag">kosmopolitika</a>, 
+<a href="https://on.lt/dalykai/tauta/" rel="tag">tauta</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Savininkiška lietuvių tauta verčiama tarptautiniu tarnų kumetynu.</dd>
+<dd><p><a href="https://on.lt/tautos-referendumas">Tautos referendumas</a> naujosios eros 2014 metais yra proga apsidairyti, susimąstyti ir apsispręsti, ar jau atsisakome Lietuvos kaip lietuvių valstybės, paskutinio žemės sklypo šiame pasaulyje tautos namams. Su protėvių milžinkapiais, seniausia ir tyriausia „indoeuropiečių“ kalba. Ar susigėdę nusisukame nuo tūkstantmetės lietuvių civilizacijos, išradusios pasauliui savininkišką santvarką ir suklojusios Vakarų kultūros pamatus su gamtajausmio dvasingumo, mokslo ir šeimininkiško ūkininkavimo papročiais. Sambūrio „Patirtis“ užsakymu išguldžiau savo išvadas, į kokią padėtį esame patekę ir kokius turime pasirinkimus.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/237t.jpg" alt="Pakrantė" class="vaizdelis" width="100" height="82" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/lietuva-ir-sajunga">Lietuva ir Sąjunga</a></strong></dt>
+<dd>2013-12-20 Lietuvai pagražinti draugijos pareiškimas dėl Lietuvos žemės.</dd>
+<dd>424. <a href="https://on.lt/prakalbos/">Prakalbos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/teisesauga/">Teisėsauga</a>: <a href="https://on.lt/dalykai/i%C5%A1davyst%C4%97/" rel="tag">išdavystė</a>, 
+<a href="https://on.lt/dalykai/nuosavyb%C4%97/" rel="tag">nuosavybė</a>, 
+<a href="https://on.lt/dalykai/tauta/" rel="tag">tauta</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Romualdas+Grigas/">Romualdas Grigas</a>: Europos tautų naikinimas silpnina Europos sąjungą.</dd>
+<dd><p>Žemių pardavimas nuosavybės teise užsieniečiams yra vienas iš svarbiausių klausimų, garantuojant tautos ateities egzistenciją, jos laisvę ir nepriklausomybę ir todėl turėtų buti sprendžiamas tautos referendumu. Seimas, 1996 ir 2003 metais pakeitęs Konstitucijos 47 straipsnį, suteikiantį „užsienio subjektams“ teisę įsigyti Lietuvoje žemę nuosavybės teise be tautos referendumo, sukūrė specialią konstitucinę normą, pažeidžiančią Konstitucijos 9 straipsnio 1 dalį, kurioje įtvirtintas konstitucinis principas, nustatantis, kad „svarbiausi tautos ir valstybės klausimai sprendžiami referendumu“. Kolizijos atveju Konstitucijos principai turi viršenybę prieš specialias konstitucines normas. Šio straipsnio pakeitimas be referendumo pažeidė ir Konstitucijos  2 straipsnį — principą: „suverenitetas priklauso tautai“ o taip pat Konstitucijos preambulę, teigiančią „Tautos teisę laisvai gyventi ir kurti savo tėvų ir protėvių žemėje“.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/234t.jpg" alt="Odetė Abromavičiūtė: Vėlinės" class="vaizdelis" width="100" height="82" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/neparduokime-tevynes">Neparduokime tėvynės</a></strong></dt>
+<dd>2013-09-21 Sambūrio „Patirtis“ pareiškimas dėl žemės pardavimo užsieniečiams.</dd>
+<dd>421. <a href="https://on.lt/prakalbos/">Prakalbos</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/teisesauga/">Teisėsauga</a>: <a href="https://on.lt/dalykai/nuosavyb%C4%97/" rel="tag">nuosavybė</a>, 
+<a href="https://on.lt/dalykai/tauta/" rel="tag">tauta</a>, 
+<a href="https://on.lt/dalykai/valstyb%C4%97/" rel="tag">valstybė</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Albinas+Jasi%C5%ABnas/">Albinas Jasiūnas</a>: Tautai gresia samdinių ir klajoklių likimas.</dd>
+<dd><p>Pirmąjį atkuriamos Lietuvos dešimtmetį vykusi sparti dekolektyvizacija kėlė džiugių vilčių atgaivinti šeimos ūkius, agrarinę pramonę, nuosavybinę santvarką ir tautos kultūrą Lietuvos sodžiuose. Tačiau antrasis dešimtmetis pasižymėjo įtartinai užprogramuotu šeimos ūkių išstrūmimu ir prekinės gamybos, sodžių nualinimu, valstiečių vertimu parduoti žemę ir tapti samdiniais. Lygia greta kūrėsi itin stambios latifundinės kompanijos, kai 1 – 2 % bendrovių abejotinais pagrindais užvaldė net 40 % šalies žemės ūkio naudmenų ir kasmet susižeria iki 80 % Europos sąjungos paramos lėšų, skirtų visai Lietuvos žemės ūkio plėtros programai. O dabar įvairūs politiniai agentiniai statytiniai padeda užsienio korporacijoms supirkinėti pelningiausius žemės ūkius, pažangiausias agrarinio verslo ir kultūros sklaidos įmones. Prieštaraujant konstitucijos dvasiai, ES senbuvių valstybių teisinei praktikai ir Lietuvos statutui, nuosekliai siekiama užvaldyti tautos pamatą — žemę. Visa tai, kaip ir prasidėjęs vietinių mokyklų bei bibliotekų uždarinėjimo vajus, naikinant kultūros židinius kaimo vietovėse, sukėlė srautinę jaunimo emigraciją iš tėvynės.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/219t.jpg" alt="Lenkinimo nasrai 1920 m. piešinyje" class="vaizdelis" width="100" height="67" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/okupacijos-restauracija">Neatstatinėkime okupacinio režimo</a></strong></dt>
+<dd>2013-04-20 Sambūrio „Patirtis“ pareiškimas dėl kalbos konstitucinės padėties.</dd>
+<dd>403. <a href="https://on.lt/prakalbos/">Prakalbos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/kalba/">Kalba</a>: <a href="https://on.lt/dalykai/griovimas/" rel="tag">griovimas</a>, 
+<a href="https://on.lt/dalykai/i%C5%A1davyst%C4%97/" rel="tag">išdavystė</a>, 
+<a href="https://on.lt/dalykai/lenkinimas/" rel="tag">lenkinimas</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Albinas+Jasi%C5%ABnas/">Albinas Jasiūnas</a>: Lietuvių kalbos teisės negali būti tarpvalstybinių derybų dalykas.</dd>
+<dd></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/218t.jpg" alt="Nebe Lietuva" class="vaizdelis" width="100" height="67" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/elerte">„Elertė“</a></strong></dt>
+<dd>2013-04-20 Sambūrio „Patirtis“ pareiškimas dėl Lietuvos radijo ir televizijos pavadinimo.</dd>
+<dd>404. <a href="https://on.lt/prakalbos/">Prakalbos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/kalba/">Kalba</a>: <a href="https://on.lt/dalykai/i%C5%A1davyst%C4%97/" rel="tag">išdavystė</a>, 
+<a href="https://on.lt/dalykai/lietuvyb%C4%97/" rel="tag">lietuvybė</a>, 
+<a href="https://on.lt/dalykai/tautovardis/" rel="tag">tautovardis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Albinas+Jasi%C5%ABnas/">Albinas Jasiūnas</a>: Ryškėja valstybės politika šalinti lietuvių tautovardį.</dd>
+<dd></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/207t.jpg" alt="Statkai Kaune 1934 m." class="vaizdelis" width="100" height="100" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/kantas-levinas">Filosofinė Lietuva: nuo Kanto iki Lėvino</a></strong></dt>
+<dd>2012-12-16 Apie lietuviškas Vakarų filosofų Kanto ir Lėvino šaknis.</dd>
+<dd>397. <a href="https://on.lt/paskaitos/">Paskaitos</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/kalba/">Kalba</a>: <a href="https://on.lt/dalykai/dora/" rel="tag">dora</a>, 
+<a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>, 
+<a href="https://on.lt/dalykai/santvarka/" rel="tag">santvarka</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/J%C5%ABrat%C4%97+Rosales/">Jūratė Rosales</a>: Kanto ir Lėvino etinės atsakomybės nuovoka lietuviška.</dd>
+<dd><p>Valencijos universiteto profesoriaus <cite>Antonio Lastra</cite> užsakymu išguldyta esė apie didžiųjų Vakarų kultūros filosofų Imanuelio Kanto ir Emanuelio Lėvino lietuviškas šaknis. Knygoje atskleidžiamas lietuvių kalbos savitumas, nusakant erdvės ir laiko santykį. Iškeliamas lietuvių kalboje glūdintis darnos supratimas, lemiantis žmogaus pasaulėvoką ir įsipareigojimą kitiems žmonėms. Būtent šiomis įžvalgomis išgarsėjo, padarė poveikį Vakarų galvosenai, dėl to labiausiai vertinami filosofai Kantas ir Lėvinas. Kanados filosofo Andriaus Valevičiaus dėka dokumentuojama, kad Lėvinas gerai mokėjo ir rašė lietuviškai. Knyga papildyta <span class="caps">XVIII</span> amžiaus pabaigos vokiečių mąstytojų, paties filosofo Kanto ir oficialios vokiečių valdžios argumentais, kodėl lietuvių kalbą būtina išsaugoti.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/198t.png" alt="Enciklopedija Lietuvai.lt" class="vaizdelis" width="100" height="82" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/enciklopedija-lietuvai-ir-pasauliui">Enciklopedija „Lietuvai ir pasauliui“ (ELIP)</a></strong></dt>
+<dd>2012-10-16 Naujo žinyno paskirtis ir ypatumai.</dd>
+<dd>392. <a href="https://on.lt/pateiktys/">Pateiktys</a>: <a rel="tag" href="https://on.lt/category/leidyba/">Leidyba</a>: <a rel="tag" href="https://on.lt/category/savilaida/">Savilaida</a>: <a href="https://on.lt/dalykai/bibliografija/" rel="tag">bibliografija</a>, 
+<a href="https://on.lt/dalykai/enciklopedija/" rel="tag">enciklopedija</a>, 
+<a href="https://on.lt/dalykai/paveldas/" rel="tag">paveldas</a>, 
+<a href="https://on.lt/dalykai/semantika/" rel="tag">semantika</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vitas+Povilaitis/">Vitas Povilaitis</a>: Lietuvai.lt pažangesnė ir didesnė už lt.wikipedia.org.</dd>
+<dd>	<p>Enciklopedija <a href="http://lietuvai.lt">„Lietuvai ir pasauliui</a> (<span class="caps">ELIP</span>) — tai visuotinių žinių kaupykla lietuvių kalba, kuria nemokamai gali naudotis kiekvienas. Ji skirta ne tik Lietuvai, bet ir pasauliui, todėl enciklopedijoje rasite duomenų ir apie daugelį kitų šalių, jų asmenybių, reiškinių ir t. t. Lietuva — tai tik atspirties taškas žinių sklaidai visomis enciklopedinėmis kryptimis. </p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/195t.jpg" alt="Lietuvos stipruolių pergalė" class="vaizdelis" width="100" height="62" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/lietuvos-galiunai">Stipriausi vyrai pasaulyje — lietuviai</a></strong></dt>
+<dd>2012-10-02 Gera žinia iš pasaulio galiūnų varžybų Amerikoje.</dd>
+<dd>390. <a href="https://on.lt/ataskaitos/">Įvykiai</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/galia/">Galia</a>: <a href="https://on.lt/dalykai/sportas/" rel="tag">sportas</a>, 
+<a href="https://on.lt/dalykai/stipruoliai/" rel="tag">stipruoliai</a>, 
+<a href="https://on.lt/dalykai/tauta/" rel="tag">tauta</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Auksą ir sidabrą iškovojo Lietuvos stipruoliai.</dd>
+<dd><p>2012 m. spalio 2 dieną Amerikoje pasibaigusiose pasaulio galiūnų varžybose aukščiausias vietas užėmė Lietuvos stipruoliai: auksą iškovojo Žydrūnas Savickas, o sidabrą — Vytautas Lalas. Žydrūnui stipriausio pasaulio vyro <cite>World&#8217;s Strongest Man</cite> vardas pripažintas jau trečius metus, prieš tai keliskart yra pripažinusi ir <acronym title="International Federation of Strength Athletes"><span class="caps">IFSA</span></acronym> federacija, Pasaulio čempionų lyga, <acronym title="World Strongman Challenge"><span class="caps">WSC</span></acronym>, <cite>„Fortissimus“</cite>, kitos organizacijos, o garbingiausia Arnoldo taurė įteikta net šešis kartus. Po savaitės Vilniuje visą <span class="caps">SCL</span> garbės pakylą užėmė vien lietuviai: Žydrūnas tapo  rąsto kėlimo pasaulio čempionu ir pasaulio čempionų čempionu, Vidas Blekaitis atitinkamai ketvirtas ir antras, Vytautas Lalas abipus trečias ir dar pagerino akmenų krovimo pasaulio rekordą.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/191t.jpg" alt="Apleistos sodybos" class="vaizdelis" width="100" height="70" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/neverskime-lietuvos-kumetynu">Nepaverskime Lietuvos kumetynu!</a></strong></dt>
+<dd>2012-03-24 Sambūrio „Partiris“ kreipimasis į partijas dėl žemės ūkio politikos.</dd>
+<dd>378. <a href="https://on.lt/prakalbos/">Prakalbos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/ekonomika/">Ekonomika</a>: <a href="https://on.lt/dalykai/dora/" rel="tag">dora</a>, 
+<a href="https://on.lt/dalykai/sod%C5%BEius/" rel="tag">sodžius</a>, 
+<a href="https://on.lt/dalykai/tauta/" rel="tag">tauta</a>, 
+<a href="https://on.lt/dalykai/vals%C4%8Dius/" rel="tag">valsčius</a>, 
+<a href="https://on.lt/dalykai/%C5%A1eima/" rel="tag">šeima</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Albinas+Jasi%C5%ABnas/">Albinas Jasiūnas</a>: Samdinių pramonė ir šeimos ūkių naikinimas yra lietuvių tautos naikinimas.</dd>
+<dd><p>Mūsų kaimo žmonės yra padaryti išmaldos prašytojais. Išmaldos, kuri duodama tada, kai valstietis atsisako prekinės gamybos ir pasirenka išlaikytinių padėtį. Žmogų pradėta vertinti ne už darbą, o už tinginiavimą. Dar daugiau: jeigu nedirbsi — gausi pinigų, o jeigu dirbsi — gali būti nubaustas ir turėsi nuostolių. Todėl Lietuvoje dirvonuoja didžiausi plotai, kaimiečiai nebelaiko gyvulių nei paukščių. O juk darbštumas Lietuvos šeimų ūkiuose nuo amžių buvo viena pagrindinių žmogaus dorybių. Lietuvių tautą sukūrė, jos papročius ir valstybę visais amžiais gynė savarankiški ūkininkai. Dabar atvirai propaguojamas artimiausiu metu prasidėsiantis šeimos ūkių (sodybų) žemės valdų „konsolidavimas“ — jų supirkinėjimas bei stambinimas iki ne mažesnio kaip 500 hektarų. Tai niekuo nepateisinamas, tiesiog nusikalstamas kėsinimasis į Lietuvos sodžius — tautos tapatumo, demografinio ir kultūrinio gyvybingumo, sveiko gyvenimo būdo bei sveikų žemės ūkio produktų gamybos lobyną — šeimos ūkių likimą.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/187t.jpg" alt="Lietuvių trispalvė vėliava" class="vaizdelis" width="100" height="70" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/tauta-veisle">Tauta reiškė veislę</a></strong></dt>
+<dd>2012-03-10 Kas yra tauta?.</dd>
+<dd>376. <a href="https://on.lt/citatos/">Ištraukos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/svietimas/">Švietimas</a>: <a href="https://on.lt/dalykai/istorija/" rel="tag">istorija</a>, 
+<a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>, 
+<a href="https://on.lt/dalykai/kilm%C4%97/" rel="tag">kilmė</a>, 
+<a href="https://on.lt/dalykai/tauta/" rel="tag">tauta</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Tautos sąvoka pamiršta, tautiškumo turinys iškreiptas ir išniekintas.</dd>
+<dd><p>Kovo 11-osios proga siūlau atsakyti į klausimą, kas yra tauta — ką reiškia ši sąvoka, koks jos turinys? Kokia tautiškumo vertė, netgi nauda — kodėl verta laikytis protėvių papročių, argi ne geriau apsimokėtų perimti iš kiekvienos tautos, kas jų papročiuose naudinga ir nevaržyti savęs tautiniais prietarais, priklausomybe vienai tautai, o būti laisvu pasaulio piliečiu? Atsakant paprastai pasipila tuščiažodžiavimai, gražbylystė apie dvasios slėpinius ir sielos virpulius, tarsi objektyviai dalykas būtų nepažinus, nešališkai nepatikrinamas ir neįrodomas. Patyrinėjęs pats, priėjau išvados, kad tikroji tautiškumo prasmė pamiršta, iškreipta ir paniekinta. Tai kadaise buvusi žmonių veislininkystė savęs atžvilgiu — griežtas ugdymas, kilmės puoselėjimas ir tarpusavio pagalba (talka). Ne vienas faktas ir jų derinys veda į tai, kad mūsų protėviai gali būti kalti dėl žmogaus kilmės — jo atsiskyrimo nuo gyvulio. Šią prielaidą paremia kalbotyra, o neseniai patvirtino ir naujausi genetikos mokslo atradimai, padedant antropologijai, archeologijai, matematiniam klimato modeliavimui.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/159t.jpg" alt="Algimantas Bučys" class="vaizdelis" width="100" height="75" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/pilenai-savizudybes-pamokslininkas">Kaip mokslininkas virsta pamokslininku</a></strong></dt>
+<dd>2011-03-13 Apie Dariaus Barono, bažnyčios ir politikų požiūrį į patriotizmą.</dd>
+<dd>326. <a href="https://on.lt/paskaitos/">Paskaitos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/svietimas/">Švietimas</a>: <a href="https://on.lt/dalykai/dora/" rel="tag">dora</a>, 
+<a href="https://on.lt/dalykai/gynyba/" rel="tag">gynyba</a>, 
+<a href="https://on.lt/dalykai/istorija/" rel="tag">istorija</a>, 
+<a href="https://on.lt/dalykai/tikyba/" rel="tag">tikyba</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Algimantas+Bu%C4%8Dys/">Algimantas Bučys</a>: Valstybė laiko mokslu ir premijuoja nemokslines priešlietuviškas apkalbas.</dd>
+<dd><p>Kas gi atsitiko, kad laisvoje Lietuvoje <span class="caps">XXI</span> a. radikalioji katalikų bendruomenė ėmė judėti beveik priešinga kryptimi? Kodėl tarsi tyčia demonstratyviai kapojamos katalikybės sąsajos su patriotinėmis lietuvių nuostatomis? Kodėl ir kieno yra palaikoma ir skatinama visokeriopa senovės Lietuvos istorijos diskreditacija švietimo tinkle nuo pradinių iki aukštųjų mokyklų? Kam taip baisiai trukdo lietuvių išsiugdyta ir šimtmečiais oficialiai bei pogrindžiuose ginta ir puoselėta daugkartinių Lietuvos Atgimimo šauklių kunigų, pamokslininkų, poetų bei tautos patriarchų tradicija? Ką ir kodėl taip patologiškai erzina mažiausia užuomina apie lietuvių teisę ir pilietinę pareigą ugdyti pasididžiavimą ne tik katalikiškąja mūsų praeitimi, ne tik europinės integracijos dabartimi, bet ir ikikrikščioniškąja Lietuva? Kas ir kodėl stengiasi žūtbūt sumenkinti ikikrikščioniškosios Lietuvos valdovus ir herojus, senovės Lietuvos tikybą ir valstybinę galią? Ir net savo gimtąją kalbą, archajiškiausią iš visų indoeuropiečių kalbų pasaulyje, taigi — ir toje pačioje globalizacijos tautiškai sterilizuojamoje Europoje?</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/137t.jpg" alt="Lenkai 1912 metais — demografinis žemėlapis" class="vaizdelis" width="100" height="105" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/ka-paneige-teismas">Ką paneigė teismas</a></strong></dt>
+<dd>2011-05-13 Europos teisingumo teismas paneigė kaltinimą dėl lietuviškos rašybos.</dd>
+<dd>315. <a href="https://on.lt/citatos/">Ištraukos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/kalba/">Kalba</a>: <a href="https://on.lt/dalykai/asmenvardis/" rel="tag">asmenvardis</a>, 
+<a href="https://on.lt/dalykai/kalbajobai/" rel="tag">kalbajobai</a>, 
+<a href="https://on.lt/dalykai/lenkinimas/" rel="tag">lenkinimas</a>, 
+<a href="https://on.lt/dalykai/ra%C5%A1yba/" rel="tag">rašyba</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Polonizacijos politiką remia žurnalistai dėl teisės kalbėti neišmanant.</dd>
+<dd><p>Polonizacijos politikų užduotis išdarkyti ir sugriauti lietuvių kalbą, padaryti nepatogia ir netinkama, išstumti ją iš vartosenos.  Bet parsidavėliai tėvynės išdavikai remiasi ir žurnalistų, valstybės tarnautojų, „viešųjų intelektualų“ teise kalbėti, ko neišmano — pareiga kartoti gautą naujienų agentūrų ir kitokią propagandą raštu, nežinant tikrinių daiktavardžių ištarimo, matant tik užrašą. Taigi priežastis ne runkelių tamsumas ir elito apšviestumas, o atvirkščiai — paviršutiniškas visuomenės auklėtojų išsilavinimas. Nemokėti visų pasaulio kalbų nebūtų gėda, jei ne pastangos nuslėpti nemokėjimą ištarti ir užrašyti svetimžodžio lietuviškai, dangstant savo neišmanymą kaltinimu visai tautai, kad jinai prastai moka užsienio kalbas. Todėl aš pasiūliau <a href="http://on.lt/kalba">ištaisytas lietuviškos rašybos taisykles</a>, kurios apgina šventą kalbėtojo teisę nusirašyti ir nemokant ištarti.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/130t.jpg" alt="Sarmizegetusa" class="vaizdelis" width="100" height="105" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/europos-saknys">Europos šaknys</a></strong></dt>
+<dd>2011-03-01 Dar rašoma knyga apie baltiškas Europos kultūros ištakas.</dd>
+<dd>294. <a href="https://on.lt/pateiktys/">Pateiktys</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/gudai/">Gudai</a>: <a href="https://on.lt/dalykai/archeologija/" rel="tag">archeologija</a>, 
+<a href="https://on.lt/dalykai/istorija/" rel="tag">istorija</a>, 
+<a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>, 
+<a href="https://on.lt/dalykai/kilm%C4%97/" rel="tag">kilmė</a>, 
+<a href="https://on.lt/dalykai/tauta/" rel="tag">tauta</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/J%C5%ABrat%C4%97+Rosales/">Jūratė Rosales</a>: Baltiškas pajūrys buvo daugelio tautų tėvynė ir kultūros lopšys.</dd>
+<dd><p>Šiuo metu rašau plačios apimties knygą „Europos šaknys“. Tai daugelį metų savo ir kitų tyrinėtojų surinktos medžiagos apibendrinimas apie indoeuropietiškos Vakarų kultūros šaknis, apie dabar baltais vadinamos tautų tėvynės reikšmę, apie seniausią ir didžiausią Europos valstybę, apie proistore arba net paraistorija dabar vadinamą praeitį prieš Lietuvos krikštą. Čia knygos pristatymas, turinio rodyklė, šeši pirmieji skyriai ir vis papildomi bibliografiniai duomenys, leidybos naujienos.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/123t.png" alt="HTML5 žymuo" class="vaizdelis" width="100" height="128" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/html5zymuo">HTML5 garbės ir W3C gėdos žymuo</a></strong></dt>
+<dd>2011-01-19 WWW architektų taryba skelbia ir kviečia platinti HTML5 žymenį.</dd>
+<dd>287. <a href="https://on.lt/apydaira/">Apžvalgos</a>: <a rel="tag" href="https://on.lt/category/kodavimas/">Kūryba</a>: <a rel="tag" href="https://on.lt/category/html/">HTML</a>: <a href="https://on.lt/dalykai/bulvaras/" rel="tag">bulvaras</a>, 
+<a href="https://on.lt/dalykai/dizainas/" rel="tag">dizainas</a>, 
+<a href="https://on.lt/dalykai/logika/" rel="tag">logika</a>, 
+<a href="https://on.lt/dalykai/rinkodara/" rel="tag">rinkodara</a>, 
+<a href="https://on.lt/dalykai/standartas/" rel="tag">standartas</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Bulvarinės rinkodaros mėgiamas sąvokų painiojimas įsimetė į W3C.</dd>
+<dd><p><span class="caps">HTML</span> ir <span class="caps">CSS</span> aprašai vis aiškesni, lengviau suvokiami, maloniau skaitomi — tai didelis jų kūrėjų ir standartų tarybos nuopelnas. Ir svarbus įgyvendinimo, paplitimo, taisyklingos tinklapių kūrybos, pagarbos standartams veiksnys. Bet tai pasiekta be bulvarinės reklamos agentūrų pagalbos. Įsibrovę į standartų tarybą, jos vardu cigoniškų užkalbėjimų daktarai drumsčia žmonių protus ir laužo pačias taisykles. Žymuo beprasmis, o HTML5 sąvoka tyčia supainiota.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/textile">Kaip rašyti raiškiai</a></strong></dt>
+<dd>2010-07-02 Raiškaus rašto „Tekstilės“ ženklai leidykloje „Sava Lietuva“.</dd>
+<dd>249. <a href="https://on.lt/pamokos/">Pamokos</a>: <a rel="tag" href="https://on.lt/category/leidyba/">Leidyba</a>: <a rel="tag" href="https://on.lt/category/cms/">CMS</a>: <a href="https://on.lt/dalykai/apdaila/" rel="tag">apdaila</a>, 
+<a href="https://on.lt/dalykai/brai%C5%BEas/" rel="tag">braižas</a>, 
+<a href="https://on.lt/dalykai/css/" rel="tag">css</a>, 
+<a href="https://on.lt/dalykai/darna/" rel="tag">darna</a>, 
+<a href="https://on.lt/dalykai/patarimai/" rel="tag">patarimai</a>, 
+<a href="https://on.lt/dalykai/stilius/" rel="tag">stilius</a>, 
+<a href="https://on.lt/dalykai/taisykl%C4%97s/" rel="tag">taisyklės</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Paskelbti galima ir nemokant, bet su „Tekstile“ pavyks dailiau ir aiškiau.</dd>
+<dd></dd>
+	</dl>
+
+	<h3 class="juosta">Raiškiai</h3>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/350t.png" alt="Danieliaus 3032 metai" class="vaizdelis" width="100" height="67" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/danieliaus-metai">Danieliaus metai</a></strong></dt>
+<dd>2019-12-29 Audronės Mickutės paveikslas Naujųjų saulėgrįžos sulaukus.</dd>
+<dd>501. <a href="https://on.lt/paveikslai/">Paveikslai</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/daile/">Dailė</a>: <a href="https://on.lt/dalykai/pagerbimas/" rel="tag">pagerbimas</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Prasideda 2020-ieji – 3032-ieji Danieliaus metai.</dd>
+<dd><p>Vitražo dailininkės <a href="http://www.audronemickute.lt/">Audronės Mickutės</a> drožinys ir paveikslas Danieliaus 3032 (2020) metams prasidedant (<span class="caps">PNG</span>, <a href="http://lietuvai.lt/wiki/Vaizdas%3ADanielius_3032.png">visas dydis</a> — 3456×2304 px 488 KiB). </p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/348t.jpg" alt="Žiemos šventė" class="vaizdelis" width="100" height="99" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/ziemos-sventes">Žiemos šventės</a></strong></dt>
+<dd>2018-12-18 Vitražo dailininkės Audronės Mickutės dovana tautai.</dd>
+<dd>498. <a href="https://on.lt/paveikslai/">Paveikslai</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/daile/">Dailė</a>: <a href="https://on.lt/dalykai/apeigos/" rel="tag">apeigos</a>, 
+<a href="https://on.lt/dalykai/simboliai/" rel="tag">simboliai</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Prasideda didžioji žiemos saulėgrįžos šventė.</dd>
+<dd><p>Apsauginė žvaigždė, krustas ir gyvybės sūkurėlis — vitražo dailininkės <a href="http://www.audronemickute.lt/">Audronės Mickutės</a> šventinis atvirukas žiemos saulėgrįžai 2018 m.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/343t.png" alt="Audronė Mickutė 2018-09-22 — 2019-03-08" class="vaizdelis" width="100" height="70" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/tautos-vienybes-lyguo">Tautos vienybės lyguo</a></strong></dt>
+<dd>2018-09-18 Audronės Mickutės dailės dovana per rudens lygiadienį.</dd>
+<dd>496. <a href="https://on.lt/paveikslai/">Paveikslai</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/daile/">Dailė</a>: <a href="https://on.lt/dalykai/atmintis/" rel="tag">atmintis</a>, 
+<a href="https://on.lt/dalykai/pagerbimas/" rel="tag">pagerbimas</a>, 
+<a href="https://on.lt/dalykai/simboliai/" rel="tag">simboliai</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: 1236-09-22 Saulės pergalę minime kaip tautos vienybės dieną.</dd>
+<dd><p><strong>„Baltų vienybės diena 2018“</strong> — vitražo dailininkės <a href="http://www.audronemickute.lt/">Audronės Mickutės</a> dovana tautai 1236 m. rugsėjo 22 d. <a href="http://lietuvai.lt/wiki/Saul%C4%97s_m%C5%AB%C5%A1is">Saulės pergalė</a>s garbei per rudens lygiadienį. <a href="http://lietuvai.lt/wiki/Vaizdas%3ABaltu-vienybes-diena-2018.png">Viso dydžio</a> <span class="caps">PNG</span> paveikslas yra 3495×2490 px 209 KiB. Ugnies šviesybe, ugnies galybe, sujunkite mumis, stiprinkite mumis!</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/329t.png" alt="Audronė Mickutė: Kaupuo" class="vaizdelis" width="100" height="60" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/kaupuo2018">Kaupuo</a></strong></dt>
+<dd>2018-06-21 Audronės Mickutės dailės dovana per vasaros saulėgrįžą.</dd>
+<dd>480. <a href="https://on.lt/paveikslai/">Paveikslai</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/daile/">Dailė</a>: <a href="https://on.lt/dalykai/apeigos/" rel="tag">apeigos</a>, 
+<a href="https://on.lt/dalykai/simboliai/" rel="tag">simboliai</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Joninių kupoliavimo šventė Kupolė, Kaupolė, Kaupuolė.</dd>
+<dd><p>Vitražo dailininkės <a href="http://www.audronemickute.lt/">Audronės Mickutės</a> dovana tautai per vasaros saulėgrįžą — ilgiausią metų dieną ir trum&shy;piausią, šviesiausią 2018 m. naktį. <a href="http://lietuvai.lt/wiki/Vaizdas%3ARo%C5%BEel%C4%97_2018.png">Viso dydžio</a> <span class="caps">PNG</span> paveikslas 2338×1653 px 71 KiB,</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/326t.jpg" alt="Rimanto Matulio „Lietuvių tautos kilmė“ Krėvės muziejuje" class="vaizdelis" width="100" height="71" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/lietuviu-tautos-kilme-2018">Knygos „Lietuvių tautos kilmė“ sutiktuvės</a></strong></dt>
+<dd>2018-03-08 Sutiktuvių iškilmės Krėvės muziejuje.</dd>
+<dd>475. <a href="https://on.lt/filmai/">Vaizdo įrašai</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/gudai/">Gudai</a>: <a href="https://on.lt/dalykai/istorija/" rel="tag">istorija</a>, 
+<a href="https://on.lt/dalykai/kilm%C4%97/" rel="tag">kilmė</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Rimantas+Matulis/">Rimantas Matulis</a>: 2017 metais perleista monografija „Lietuvių tautos kilmė“.</dd>
+<dd><p>2018 m. kovo 8 dieną Krėvės muziejuje Vilniuje iškilmingai pristatyta Rimanto Matulio 302 psl. monografija <a href="https://on.lt/lietuviu-tautos-kilme">„Lietuvių tautos kilmė“</a> (<span class="caps">ISBN</span> <a href="//www.libis.lt/complexSearch.do?isn=9789955739630">9789955739630</a>). Dalyvavo muziejaus direktorius Vladas Turčinavičius, Vilniaus savivaldybės atstovė Eglė Mirončikienė, skaitovas Virgilijus Kubilius, giedojo <a href="https://on.lt/raskila">„Raskila“</a>, Iškilmes nufilmavo <a href="http://www.pogon.lt/wiadomosci/2281-o-pochodzeniu-litwinow.html">Pogon.lt</a> leidėjas Ryšardas Maciejkianiecas.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/316t.png" alt="Audronė Mickutė: Sausio 13" class="vaizdelis" width="100" height="71" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/2018sausio13">Sausio tryliktoji</a></strong></dt>
+<dd>2018-01-11 2018 m. Audronės Mickutės paveikslas Sausio 13-osios didvyriams atminti.</dd>
+<dd>473. <a href="https://on.lt/paveikslai/">Paveikslai</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/daile/">Dailė</a>: <a href="https://on.lt/dalykai/pagerbimas/" rel="tag">pagerbimas</a>, 
+<a href="https://on.lt/dalykai/simboliai/" rel="tag">simboliai</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Pagerbkime Lietuvos nepriklausomybės aukų atminimą.</dd>
+<dd><p>Vitražo dailininkės <a href="http://www.audronemickute.lt/">Audronės Mickutės</a> 2018 m. dovana Lietuvos valstybės nepriklausomybės 1991-01-13 aukų atminimui pagerbti. <a href="http://lietuvai.lt/wiki/Vaizdas%3ASausio13_2018.png">Viso dydžio</a> <span class="caps">PNG</span> paveikslas yra 3495×2490 px 0,13 MiB.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/311t.jpg" alt="Žalvarinė pynė" class="vaizdelis" width="100" height="100" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/zaizdre-uzgrudinta-kalvio-apsauga">Žaizdre užgrūdinti kalvio saugeliai</a></strong></dt>
+<dd>2017-09-29 Šiandien palaidojome meninės kalvystės sąjūdžio pradininką.</dd>
+<dd>472. <a href="https://on.lt/paveikslai/">Paveikslai</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/daile/">Dailė</a>: <a href="https://on.lt/dalykai/atmintis/" rel="tag">atmintis</a>, 
+<a href="https://on.lt/dalykai/menas/" rel="tag">menas</a>, 
+<a href="https://on.lt/dalykai/netektis/" rel="tag">netektis</a>, 
+<a href="https://on.lt/dalykai/pagerbimas/" rel="tag">pagerbimas</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Genovait%C4%97+Ma%C4%8Di%C5%ABt%C4%97/">Genovaitė Mačiūtė</a>: Vytauto Jaručio kūryboje reiškiasi tautos meninės kultūros atmintis.</dd>
+<dd><p>Baigiantis ryškiausiom rudens spalvom liepsnojančiam, žaižaruojančiam rugsėjui, Lietuvos kalvių kalvis  Vytautas Jarutis iškeliavo amžinybėn – dabar jau iš ten jis stebės, kaip prižiūrime jo pastatytus kryžius, paminklus, ar jį prisimena muziejai, ir kaip dažnai savo lankytojams jie rodo jo dovanotus turtus, ar neužsiguli lobiai saugyklose. Iš Anapus jis džiaugsis, kad gražiai puošiamės. Iš Anapus jis saugos. Tvirta ir brangi, žaizdre užgrūdinta kalvių kalvio apsauga.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/310t.png" alt="Rudens lygiadienio kuorai" class="vaizdelis" width="100" height="75" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/tautos-sasauka-rudens-lygiadienio-kuorais">Tautos sąšauka rudens lygiadienio kuorais</a></strong></dt>
+<dd>2017-09-20 Vitražo dailininkės Audronės Mickutės dovana tautai.</dd>
+<dd>471. <a href="https://on.lt/paveikslai/">Paveikslai</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/daile/">Dailė</a>: <a href="https://on.lt/dalykai/apeigos/" rel="tag">apeigos</a>, 
+<a href="https://on.lt/dalykai/simboliai/" rel="tag">simboliai</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Pagerbkime protėvių vienybę ant piliakalnių susitelkę ugnimi.</dd>
+<dd><p>Vitražo dailininkės <a href="http://www.audronemickute.lt/">Audronės Mickutės</a> dovana rudens lygiadienio kuorų sąšaukai „Baltų vienybės ugnis 2017“.  <a href="http://lietuvai.lt/wiki/Vaizdas%3ABalt%C5%B3_vienyb%C4%97s_ugnis_2017.png">Viso dydžio</a> <span class="caps">PNG</span> paveikslas yra 4000×3000 px 1 MiB.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt><img src="https://on.lt/images/301t.png" alt="Audronė Mickutė: Kovo 11" class="vaizdelis" width="100" height="66" /></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/2017kovo11">Kovo vienuoliktoji</a></strong></dt>
+<dd>2017-03-10 Vitražo dailininkės Audronės Mickutės dovana tautai.</dd>
+<dd>466. <a href="https://on.lt/paveikslai/">Paveikslai</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/daile/">Dailė</a>: <a href="https://on.lt/dalykai/apeigos/" rel="tag">apeigos</a>, 
+<a href="https://on.lt/dalykai/simboliai/" rel="tag">simboliai</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Sveikiname Lietuvos valstybės atkūrimo Kovo 11 dieną.</dd>
+<dd><p>Vitražo dailininkės <a href="http://www.audronemickute.lt/">Audronės Mickutės</a> dovana tautai 2017 m. kovo 11 dieną. <a href="http://lietuvai.lt/wiki/Vaizdas%3AKovo11.png">Viso dydžio</a> <acronym title="Portable Network Graphics"><span class="caps">PNG</span></acronym> paveikslas yra 3495×2485 px 203 MiB.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/atleiskit-broliai">Atleiskit, broliai</a></strong></dt>
+<dd>2017-02-16 „Kupolė“ rauda „Nepažinau aš brolių...“.</dd>
+<dd>467. <a href="https://on.lt/filmai/">Vaizdo įrašai</a>: <a rel="tag" href="https://on.lt/category/daina/">Daina</a>: <a rel="tag" href="https://on.lt/category/partizanai/">Partizanai</a>: <a href="https://on.lt/dalykai/karas/" rel="tag">karas</a>, 
+<a href="https://on.lt/dalykai/rauda/" rel="tag">rauda</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Taurios tautos giesmės, aukščiausios kultūros poetika.</dd>
+<dd></dd>
+	</dl>
+
+	<header><h3 class="juosta">Klausimai</h3></header>
+	<footer class="antrasas">
+Iškelti klausimai, jų atsakymai, pasiūlymai, užsakymai</footer>
+	<dl class="santraukos">
+<dt></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/kur-dingo-dakai">Kur išsikraustė dakai?</a></strong></dt>
+<dd>2010-05-10 Klausimas, kur žinomi dakų pabėgėlių pėdsakai 106-aisiais metais.</dd>
+<dd>229. <a href="https://on.lt/klausimai/">Pasiteiravimai</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/gudai/">Gudai</a>: <a href="https://on.lt/dalykai/baltai/" rel="tag">baltai</a>, 
+<a href="https://on.lt/dalykai/dakai/" rel="tag">dakai</a>, 
+<a href="https://on.lt/dalykai/etnocidas/" rel="tag">etnocidas</a>, 
+<a href="https://on.lt/dalykai/genocidas/" rel="tag">genocidas</a>, 
+<a href="https://on.lt/dalykai/getai/" rel="tag">getai</a>, 
+<a href="https://on.lt/dalykai/jotvingiai/" rel="tag">jotvingiai</a>, 
+<a href="https://on.lt/dalykai/karas/" rel="tag">karas</a>, 
+<a href="https://on.lt/dalykai/rumunai/" rel="tag">rumunai</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/J%C5%ABrat%C4%97+Rosales/">Jūratė Rosales</a>: Po romėnų genocido 106 metais dab. Rumunijoje baltų nebeliko.</dd>
+<dd>	<p>106-aisiais mūsų eros metais Roma nukariavo ir sunaikino dakų valstybę. Senuose raštuose ji buvo suprantama kaip bendresnės didžiulės, bet nesuvienytos valstybės nuo jūrų iki jūrų dalis. Po karo buvusių vietinių gyventojų nebeliko: vieni žuvo, kiti išsikraustė šiauriau, pusę milijono romėnai išvežė į vergiją, o jų vieton atkėlė ir apgyvendino kolonistus. Senbuviai kalbėjo baltiškai, o naujakurių lotyniška kalba ilgainiui virto dabartine rumuniška.</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/spameriai-lt">Spameriai.lt</a></strong></dt>
+<dd>2009-10-07 Ką galima išvadinti spam teršėju, kaip juos registruoti?.</dd>
+<dd>158. <a href="https://on.lt/klausimai/">Pasiteiravimai</a>: <a rel="tag" href="https://on.lt/category/leidyba/">Leidyba</a>: <a rel="tag" href="https://on.lt/category/savilaida/">Savilaida</a>: <a href="https://on.lt/dalykai/brukalas/" rel="tag">brukalas</a>, 
+<a href="https://on.lt/dalykai/reklama/" rel="tag">reklama</a>, 
+<a href="https://on.lt/dalykai/spam/" rel="tag">spam</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Įsteigtas Spameriai.lt, bet reiktų žinovų patarimų.</dd>
+<dd>	<p>Ką galima vadinti piktybiniu <cite>spam</cite> kenkėju, kaip turėtų atrodyti gėdos stulpas, ar susirinktų talkininkų juodajam sąrašui tvarkyti, o gal verta steigti lietuvišką <span class="caps">DNSBL</span> serverį?</p></dd>
+	</dl>
+	<dl class="santraukos">
+<dt></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/savos-apdailos">Gal kas norėtų imtis šio leidinio apdailos?</a></strong></dt>
+<dd>2009-08-16 CSS dailininko kvietimas talkon arba braižo paklausa.</dd>
+<dd>87. <a href="https://on.lt/sumanymai/">Pasiūlymai</a>: <a rel="tag" href="https://on.lt/category/kodavimas/">Kūryba</a>: <a rel="tag" href="https://on.lt/category/css/">CSS</a>: <a href="https://on.lt/dalykai/apdaila/" rel="tag">apdaila</a>, 
+<a href="https://on.lt/dalykai/brai%C5%BEas/" rel="tag">braižas</a>, 
+<a href="https://on.lt/dalykai/css/" rel="tag">css</a>, 
+<a href="https://on.lt/dalykai/dizainas/" rel="tag">dizainas</a>, 
+<a href="https://on.lt/dalykai/stilius/" rel="tag">stilius</a>.</dd>
+<dd><a rel="author" href="https://on.lt/author/Vladas+Palubinskas/">Vladas Palubinskas</a>: Galėtų būti keli leidinio rūbai, antai šventėms pasipuošti, persirengti iškilmingiau.</dd>
+<dd></dd>
+	</dl>
+
+	<header><h3 class="juosta">Nuorodos</h3></header>
+	<footer class="antrasas">
+Kur verta pasižvalgyti žiniasklaidoje</footer>
+		
+	<header><dl class="santraukos">
+<dt></dt>
+<dt><strong><a href='https://www.respublika.lt/lt/naujienos/nuomones_ir_komentarai/bus_isklausyta/realus_pavojus_ar_naujas_zmoniu_tramdymo_budas/'>Zombių tramdymo būdas</a></strong></dt>
+<dd>504. <a href="https://on.lt/nuorodos/">Nuorodos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/teisesauga/">Teisėsauga</a>: <a href="https://on.lt/dalykai/agresija/" rel="tag">agresija</a>, 
+<a href="https://on.lt/dalykai/demokratija/" rel="tag">demokratija</a>, 
+<a href="https://on.lt/dalykai/skola/" rel="tag">skola</a>, 
+<a href="https://on.lt/dalykai/totalitarizmas/" rel="tag">totalitarizmas</a>.</dd>
+<dd><p><em>Olava Strikulienė</em>: Išaiškėjo, kad mūsų blizgieji „žvaigždūnai“ ir „žvaigždutės“ tik puikavosi savo prabangiais dizainais bei interjerais. O pinigų pritrūko greičiau nei koks nors, jų žodžiais, „kaimietis“. Nesugebantis net komponuoti puokščių vestuvėms. Dar išaiškėjo, kad jau išmirštanti žmonių karta, užgrūdinta karo ir pokario, buvo psichologiškai daug atsparesnė kataklizmams. Visada, jei tik galėjo, taupė „juodai dienai“. Paniškai bijojo skolų. Pasitikėjo ne valdžios pažadais, bet tik pačiais artimiausiais giminėmis. Tokios savybės jiems padėjo išbūti, išlikti, išlaukti. Joks virusas nebūtų tų žmonių tiek išgąsdinęs, kad sulįstų į savo rūsius ar laukų griovius lyg per bombardavimą.</p></dd></dl></header>
+		
+		
+	<header><dl class="santraukos">
+<dt><img src="https://on.lt/images/351t.png" alt="Balsio E→A raidos dėsnis" class="vaizdelis" width="100" height="67" /></dt>
+<dt><strong><a href='https://az.on.lt/balsis-e-a'>Balsio E→A raidos dėsnis</a></strong></dt>
+<dd>502. <a href="https://on.lt/nuorodos/">Nuorodos</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/kalba/">Kalba</a>: <a href="https://on.lt/dalykai/istorija/" rel="tag">istorija</a>, 
+<a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>.</dd>
+<dd><p>Kieta E yra A, minkšta A yra E, raidžių junginys ia lietuviškame rašte nėra dvibalsė, visada tariama kaip balsis e. Kuo seniau, tuo lietuvių kalbos (ir kitų kalbų) tartis buvusi tikslesnė, lankstesnė ir minkštesnė. Balsio E→A išplatėjimas ir priebalsių kietėjimas yra bendro tarties stabarėjimo apraiška ir ryškus žmogaus nukultūrėjimo, sulaukėjimo, „natūralios humanizmo evoliucijos“ padarinys. Kultūrinio žmogaus „indoeuropiečio“ tartis nėra išsivysčiusi savaime, o buvo išlavinta dirbtinai — įtempiant balso stygas ir liežiuvį, sukeliant veido olų aidą ir taupant orą giedoti visa jėga pratisai. O kasdien nebegiedant, griežtai nebeugdant vaikų tautos atmintimi ir doros papročiais, nebeliko priežasties kalbos padargų įtampai, liežiuvis atsipalaiduoja, balsio E tartis vis dažniau išplatėja iki A.</p></dd></dl></header>
+		
+		
+	<header><dl class="santraukos">
+<dt><img src="https://on.lt/images/349t.jpg" alt="gaunys kaunys kuonys juonys" class="vaizdelis" width="100" height="74" /></dt>
+<dt><strong><a href='https://az.on.lt/juonines'>Juoninės — juonių naktigonė</a></strong></dt>
+<dd>500. <a href="https://on.lt/nuorodos/">Nuorodos</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/savilaida/">Savilaida</a>: <a href="https://on.lt/dalykai/asmenvardis/" rel="tag">asmenvardis</a>, 
+<a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>.</dd>
+<dd><p>Vasarvidžio saulėgrįžos šventę vadinome Juoninėmis daug anksčiau už krikščionybę. Mūsų vėliavoje tautos gynėjo vėle pavaizduotas ne senis išminčius aiškiaregys viedys (suprastinta tartimi vytis, vyčas), o atvirkščiai: raitas karžygys jaunuolis, dar nevedęs vaikinas gaunys kaunys kuonys juonys — jojantis ginkluotas raitelis, raitas gaudytojas, gaujos medžiotojas, kaujos karys, besikaunantis brolelis šeimos gynėjas, namų bandos ganys, kaimenės piemuo ganytojas. Juoninės — juonių naktigonės šventė trumpiausiąją metų naktį.</p></dd></dl></header>
+		
+		
+	<header><dl class="santraukos">
+<dt><img src="https://on.lt/images/301t.png" alt="Audronė Mickutė: Kovo 11" class="vaizdelis" width="100" height="66" /></dt>
+<dt><strong><a href='https://az.on.lt/padekos'>Lęgua — kilmės žinynas mokslo talkai</a></strong></dt>
+<dd>499. <a href="https://on.lt/nuorodos/">Nuorodos</a>: <a rel="tag" href="https://on.lt/category/leidyba/">Leidyba</a>: <a rel="tag" href="https://on.lt/category/savilaida/">Savilaida</a>: <a href="https://on.lt/dalykai/kalbotyra/" rel="tag">kalbotyra</a>, 
+<a href="https://on.lt/dalykai/mokslotyra/" rel="tag">mokslotyra</a>.</dd>
+<dd><p>Kol tautos milžinai didvyriškai grūmėsi grožio varžybose dėl Lietuvos prezidento sosto, spėjau įveikti tikrą žygdarbį — suklojau istorinės kalbotyros mokslo pamatus: sutvėriau <span class="caps">WWW</span> leidyklą kalbotyros talkai ir jau išleidau pirmąją kilmės žinyno „Lęgua“ dalį „<a href="https://az.on.lt/metodika">Mokslinis metodas kalbotyroje</a>“. Kilmės žodynų, lyginamosios kalbotyros, istorinės gramatikos ir kitų žinyno dalių ten dar tik metmenys, nors paieška būdingų žodžių užklausomis jau veikia: <a href="//az.on.lt/">//az.on.lt/</a>.</p></dd></dl></header>
+		
+		
+	<header><dl class="santraukos">
+<dt><img src="https://on.lt/images/332t.jpg" alt="Ferdinandas Kauzonas" class="vaizdelis" width="100" height="134" /></dt>
+<dt><strong><a href='http://www.respublika.lt/lt/naujienos/nuomones_ir_komentarai/bus_isklausyta/fkauzonas_o_as_ir_vel_maciau_lietuva/'>Tikroji Lietuva</a></strong></dt>
+<dd>483. <a href="https://on.lt/nuorodos/">Nuorodos</a>: <a rel="tag" href="https://on.lt/category/paveldas/">Paveldas</a>: <a rel="tag" href="https://on.lt/category/daina/">Daina</a>: <a href="https://on.lt/dalykai/kosmopolitika/" rel="tag">kosmopolitika</a>, 
+<a href="https://on.lt/dalykai/pilis/" rel="tag">pilis</a>, 
+<a href="https://on.lt/dalykai/sueiga/" rel="tag">sueiga</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>, 
+<a href="https://on.lt/dalykai/tauta/" rel="tag">tauta</a>.</dd>
+<dd><p>Politikų folkloro dienoje, deja, ir nė vienas mano sutiktas bičiulis nebuvo regėjęs. Net kultūros ministrės. Su tautiniais rūbais per televiziją yra regėję, o folkloro dienoje — ne. Gal, sakau, bijojo, kad jos ypatingo dėmesio nestokojantys, mano kukliu supratimu, antikultūros kūrėjai ir skleidėjai nepamanytų, kad ministrė jų, drįstu manyti, ir savo, šventąsias <span class="caps">FLUXUS</span> ir kitokių postmodernizmo atmainų idėjas bus išdavusi&#8230; O man, prisipažįstu, gaila, kad ministrės čia nebuvo. Tikrą Švediją ji matė, tikrą Norvegiją matė, o tikros Lietuvos? Ir prezidentės čia nebuvo. Nei su tautiniais rūbais, nei be. Aš, pavyzdžiui, jau imu neįsivaizduoti prezidentės ne vaikų apsuptyje. Ir man tai patinka. Taigi čia, Sereikiškių sode, ji būtų tiesiog maudžiusis tūkstančio vaikiukų-„folkloriukų“ jūroje. Ir jai tai irgi, ko gero, būtų patikę. Nesimaudė&#8230; Ir nepamatė tikros Lietuvos&#8230; Nemačiau nė vieno rūkančio ar išgėrusio, neaptikau nė mažiausios numestos šiukšlytės. Negirdėjau nė vieno rusiško keiksmažodžio. Mačiau tokią Lietuvą, kokią norisi matyti dažniau. Ir ne vien Sereikiškių sode. Buvo ir kita priežastis. Folkloro dienos, vadinasi, ir tokios Lietuvos, Lietuvai neparodė jokia Lietuvoje rodanti televizija! O aš ją mačiau. Gyvą.</p></dd></dl></header>
+		
+		
+	<header><dl class="santraukos">
+<dt><img src="https://on.lt/images/330t.jpg" alt="Lidija Lubienė" class="vaizdelis" width="100" height="72" /></dt>
+<dt><strong><a href='http://www.respublika.lt/lt/naujienos/lietuva/lietuvos_politika/sgd_afera_priverte_prabilti_net_llubiene/'>Durnių laivas skandina Achemą</a></strong></dt>
+<dd>481. <a href="https://on.lt/nuorodos/">Nuorodos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/ekonomika/">Ekonomika</a>: <a href="https://on.lt/dalykai/griovimas/" rel="tag">griovimas</a>, 
+<a href="https://on.lt/dalykai/nuostoliai/" rel="tag">nuostoliai</a>, 
+<a href="https://on.lt/dalykai/teroras/" rel="tag">teroras</a>.</dd>
+<dd><p>Kai niekuo nesirgęs verslovės „Achema“ įkūrėjas, daugelio išradimų autorius, chemijos mokslų daktaras staiga buvo pripažintas nepagydomu ligoniu, nes žuvo, sekmadienį važiuodamas dviračiu, o pirmadienį susirinkusi „Achemos“ valdyba nerado skubesnio reikalo, kaip tuojau pat nutraukti energetikos programą, teko suprasti, kad viskas buvo nutarta jau iš anksto, kliūtis buvo belikusi pats Lubys. Bet ne, dar ir Lubienė turėjo prisiekti Lietuvos prezidentei Grybauskaitei nebesidomėti politika — demokratinėje valstybėje!</p></dd></dl></header>
+		
+		
+	<dl class="santraukos">
+<dt></dt>
+<dt><strong><a rel="bookmark" href="https://on.lt/sajudzio30metis">Sąjūdžio trisdešimtmetis</a></strong></dt>
+<dd>2018-06-04 VU filosofijos magistras Vytautas Vyšniauskas Seime apie tautos likimą.</dd>
+<dd>482. <a href="https://on.lt/nuorodos/">Nuorodos</a>: <a rel="tag" href="https://on.lt/category/santvarka/">Santvarka</a>: <a rel="tag" href="https://on.lt/category/svietimas/">Švietimas</a>: <a href="https://on.lt/dalykai/emigracija/" rel="tag">emigracija</a>, 
+<a href="https://on.lt/dalykai/kosmopolitika/" rel="tag">kosmopolitika</a>, 
+<a href="https://on.lt/dalykai/sukaktis/" rel="tag">sukaktis</a>.</dd>
+<dd><p>Sąjūdžio programoje tautų sumaišymo ir suliejimo politika yra prilyginama stalinistiniam genocidui ir smerkiama kaip nusikalstama ir antihumaniška. Tai, ką Sąjūdis laikė stalinistinio teroro nusikaltimu, mes šiandien sau aiškiname kaip vienintelę Lietuvos išlikimo perspektyvą. Žinau, kas man tuoj bus pasakyta: jei tu drįsti šitaip kritikuoti šiandienos ideologus ir demagogus, kaltindamas juos Lietuvos silpninimu ar net naikinimu, — vadinasi, pats esi Lietuvos išdavikas ir tikriausiai netgi nedraugiškų valstybių agentas. Ką gi, jeigu bandymas vadovautis Sąjūdžio programa, atnešusia Lietuvai laisvę, yra tarnystė priešui, belieka pripažinti, kad pagrindinis šiandienos eurotautininkų priešas yra — nei daugiau, nei mažiau — pati Lietuvos laisvė. Laikas baigti šį kvailą etikečių klijavimą, ir pagaliau pripažinti, kad Lietuvą pradėjome laidoti, neišgirdę mirties nuosprendžio, ir ryžtis pagaliau gaivinti, o ne dusinti jos gyvybę.</p></dd></dl>
+		
+		
+	<header><dl class="santraukos">
+<dt><img src="https://on.lt/images/219t.jpg" alt="Lenkinimo nasrai 1920 m. piešinyje" class="vaizdelis" width="100" height="67" /></dt>
+<dt><strong><a href='http://alkas.lt/?p=337435'>Lenkų kalba Lietuvos bažnyčiose</a></strong></dt>
+<dd>478. <a href="https://on.lt/nuorodos/">Nuorodos</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/lenkinimas/">Rzeczpospolita</a>: <a href="https://on.lt/dalykai/i%C5%A1davyst%C4%97/" rel="tag">išdavystė</a>, 
+<a href="https://on.lt/dalykai/lenkinimas/" rel="tag">lenkinimas</a>.</dd>
+<dd><p>Lietuvių tautos suvažiavimas 1905 metais Vilniuje vienbalsiai priėmė nutarimą, ir dr. Basanavičiaus vadovauta komisija prieš 112 metų gegužės 23 dieną įteikė lietuvių laišką tuometiniam Romos popiežiui Pijui XX (dar 72 nuorašai buvo išsiuntinėti jo kardinolams, kitų Europos ir pasaulio katalikų vyskupams) dėl priešlietuviškos politikos ir nekrikščioniškos padėties Vilniaus vyskupijoje. Kadangi dabar padėtis iš esmės ta pati, priešlietuviška bažnyčios politika tęsiama toliau, tai, ruošiantis popiežiaus Pranciškaus apsilankymui Lietuvoje šiemet rugsėjo 22-23 dienomis, gal reikia pakartoti panašų pareiškimą?</p></dd></dl></header>
+		
+		
+	<header><dl class="santraukos">
+<dt><img src="https://on.lt/images/327t.jpg" alt="Lenkų „Armija krajova“ banditų nužudyti lietuviai" class="vaizdelis" width="100" height="63" /></dt>
+<dt><strong><a href='http://alkas.lt/?p=334605'>Lenkų Armijos krajovos genocido trubadūrai Lietuvoje</a></strong></dt>
+<dd>477. <a href="https://on.lt/nuorodos/">Nuorodos</a>: <a rel="tag" href="https://on.lt/category/praeitis/">Praeitis</a>: <a rel="tag" href="https://on.lt/category/partizanai/">Partizanai</a>: <a href="https://on.lt/dalykai/genocidas/" rel="tag">genocidas</a>, 
+<a href="https://on.lt/dalykai/i%C5%A1davyst%C4%97/" rel="tag">išdavystė</a>, 
+<a href="https://on.lt/dalykai/lenkinimas/" rel="tag">lenkinimas</a>.</dd>
+<dd><p>Nė viena tauta Europoje nepatyrė tokio genocido, kaip lietuviai. Prof. <a href="//lt.wikipedia.org/wiki/Algimantas_Liekis">Algimantas Liekis</a> atskleidžia Varšuvos, Vašingtono, Londono ir Maskvos politikų bendradarbiavimą II pasaulinio karo metais, siekiant galutinai išnaikinti lietuvių tautą. Bei tą politiką tęsiančius valstybės išdavikus: žurnalistą Virginijų Savukyną, politikus Vytautą Landsbergį, Emanuelį Zingerį, šovinistinę lenkų partiją Lietuvoje, Seimo narius konservatorius, liberalus, socialdemokratus Danutę Šakalienę, Rasą Buldbergytę, Ramintą Popovienę, Algirdą Sysą, Algimantą Salamakiną, Juozą Oleką, Julių Sabatauską ir kitus.</p></dd></dl></header>
+		
+
+		
+	<p id="galas">
+<img src="/css/hr.png" width="400" height="1" class="hr" alt="galas">
+	</p><!-- galas -->
+	</main>
+			<nav id="slenkstis">
+		<ul id="rodykles">
+	<li><a rel="author" href="/autoriai/" title="Talkininkai ir jų atnešto turinio rodyklė">Leidėjai</a> &nbsp;</li>
+	<li><a rel="contents" href="/skiltys/" title="Pranešimų skirstymas pagal turinio pateikimo pavidalus">Skiltys</a> &nbsp;</li>
+	<li><a rel="index" href="/dalykai/" title="Žinių teminis skirstymas į kategorijas pagal taksonomijos klases">Sritys</a> &nbsp;</li>
+	<li><a rel="search" href="/dalykai/" title="Raktažodžiai - esminiai žodžiai, nagrinėjamų dalykų rodyklė">Dalykai</a> &nbsp;</li>
+	<li><a type="application/atom+xml" title="Naujienos Atom pavidalu" href="https://on.lt/atom/">XML</a>-</li>
+	<li><a type="application/rss+xml" title="Naujienos RSS pavidalu" href="https://on.lt/rss/">RSS</a></li>
+		</ul><!-- rodyklės -->
+		<dl id="sm">
+	<dt><a href="//www.on.lt/">
+<img title="&Dagger;" alt="‡" src="/css/li.png" width="14" height="10" /></a>
+2010 „<a rel="home" href="/">Sava Lietuva</a>“:</dt>
+	<dd>&nbsp; <a rel="license" href="/kas-cia-seimininkas" title="Leidyklos nuosavybė, autorystė, įranga, standartai">Kas?</a></dd>
+	<dd>&nbsp; <a rel="help" href="/kaip-naudotis" title="Kaip čia susigaudyti, išnaudoti On.lt, kaip prisidėti į talką">Kaip?</a></dd>
+	<dd>&nbsp; <a rel="start" href="/sava/" title="Leidyklos paskirtis, sąlygos, užduotis, kam reikia žinių talkos sąjūdžio">Kodėl?</a></dd>
+		</dl><!-- sm -->
+			</nav><!-- slenkstis -->
+
+	</div><!-- laida -->
+</body></html>
