@@ -30,20 +30,19 @@ std::vector<w> read(std::string in){
     std::vector<w> v;
     std::string t;
     std::istringstream ss(in);
-    while(ss>>t) v.emplace_back(t, 1);
+    while(ss>>t) {
+        bool sameWordExists = false;
+        for(auto it = v.begin(); it != v.end(); it++) if(it->word == t) {
+            it->count++;
+            sameWordExists = true;
+            break;
+        }
+        if(!sameWordExists) v.emplace_back(t, 1);
+    }
     return v;
 }
 
 void merge(std::vector<w>& v){
-    for(auto i=v.begin(); i<v.end(); i++) {
-        for(auto j=i; j<v.end(); j++) {
-            if((*i).word == (*j).word) {
-                (*i).count+=(*j).count;
-                j = v.erase(j);
-                j=i; // Kazkodel vienodus zodzius kitaip palieka.
-            }
-        }
-    }
     v.erase( std::remove_if(v.begin(), v.end(), [](w a) {return a.count==1;}), v.end() );
     v.shrink_to_fit();
 }
@@ -61,6 +60,6 @@ int main()
     std::ofstream fr("results.txt");
     out(fr, v);
     fr.close();
-    out(std::cout, v);
+    //out(std::cout, v);
     return 0;
 }

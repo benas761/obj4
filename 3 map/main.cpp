@@ -1,13 +1,13 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include <vector>
+#include <map>
 
 #define exists !=std::string::npos
 
 using namespace std;
 
-vector<string> v;
+map<string, unsigned> v;
 
 void in() {
     ifstream fd("in.txt");
@@ -18,14 +18,14 @@ void in() {
         str+=t;
     }
     std::istringstream ss(str);
-    while(ss>>st) if(st.find("www") exists || st.find("http") exists) v.push_back(st);
+    while(ss>>st) if(st.find("www") exists || st.find("http") exists) v.emplace(st, 0);
     fd.close();
 }
 
 
 
 void out(ostream& print) {
-    for(auto i : v) print << i << endl;
+    for(auto i = v.begin(); i!=v.end(); i++) print << (*i).first << "\n\n";
 }
 
 int main()
@@ -34,6 +34,6 @@ int main()
     ofstream fr("results.txt");
     out(fr);
     fr.close();
-    out(cout);
+    //out(cout);
     return 0;
 }

@@ -52,7 +52,7 @@ int main()
 
     std::ofstream fr("results.txt");
     out(fr, m);
-    out(std::cout, m);
+    //out(std::cout, m);
     fr.close();
     return 0;
 }
