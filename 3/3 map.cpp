@@ -14,7 +14,8 @@ void in() {
     string str, st;
     char t;
     while(fd>>std::noskipws>>t) {
-        if(t=='"' || t==39 /* ' */) t=' '; // Pritaikoma HTML kodui, kadangi niekas paprastu link'u nebenaudoja
+        if(t>='a' && t<='z' || t>='A' && t<='Z' || t>='0' && t<='9' || t=='.' || t=='/' || t=='-') t=t;
+        else t = ' ';
         str+=t;
     }
     std::istringstream ss(str);
